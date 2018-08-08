@@ -1,0 +1,427 @@
+{
+
+	"list":[
+
+		{
+				"date":"2018.01.25",
+				"tags":["2018",""],
+				"title": "PROJECTION",
+				"url": "https://kitasenjudesign.com/sketch/04/"
+		},
+
+		{
+				"date":"2017.08.25",
+				"tags":["2017",""],
+				"title": "VJING 2016-2017",
+				"url": "https://kitasenjudesign.com/vj"
+		},
+
+		{
+			"date":"2017.08.25",
+			"tags":["2017",""],
+			"title": "GENERATIVE LOGO SYSTEM",
+			"url": "https://kitasenjudesign.com/sketch/03"
+		},
+
+		{
+			"date":"2017.08.25",
+			"tags":["2017","WEBGL"],
+			"title": "VERLET NET",
+			"url": "https://kitasenjudesign.com/work/96/"
+		},
+    {
+      "date":"2017.08.25",
+      "tags":["2017","WEBGL"],
+      "title": "WAVE",
+      "url": "https://kitasenjudesign.com/work/95/"
+    },
+
+    {
+      "date":"2017.08.25",
+      "tags":["2017","WEBGL"],
+      "title": "BOID AND SEED",
+      "url": "https://kitasenjudesign.com/work/93/"
+    },
+
+    {
+      "date":"2017.08.25",
+      "tags":["2017","WEBGL"],
+      "title": "kitasenjudesign.com v2",
+      "url": "https://kitasenjudesign.com/v2"
+    },
+
+    {
+      "date":"2017.08.25",
+      "tags":["2017","WEBGL"],
+      "title": "EQUIRECTANGULAR 2",
+      "url": "https://kitasenjudesign.com/work/91/"
+    },
+    {
+      "date":"2017.07.25",
+      "tags":["2017","WEBGL"],
+        "title": "EQUIRECTANGULAR 1",
+        "url": "https://kitasenjudesign.com/work/89/"
+    },
+    {
+      "date":"2016.10.25",
+      "tags":["2016","WEBGL"],
+        "title": "CLOP CIRCLES",
+        "url": "https://kitasenjudesign.com/work/84/"
+    },
+    {
+      "date":"2016.10.25",
+      "tags":["2016","WEBGL"],
+        "title": "CLIPPING",
+        "url": "https://kitasenjudesign.com/work/83/"
+    },
+    {
+      "date":"2016.10.25",
+      "tags":["2016","WEBGL"],
+        "title": "Typo Aquarium",
+        "url": "https://kitasenjudesign.com/work/77/"
+    },
+    {
+      "date":"2016.01.21",
+      "tags":["2016","WebGL","camera"],
+        "title": "FACE TRACKING ANIMATION",
+        "url": "https://kitasenjudesign.com/work/78/"
+    },
+    {
+      "date":"2016.01.21",
+      "tags":["2016","WebGL","Clock"],
+        "title": "BALL CLOCK",
+        "url": "https://kitasenjudesign.com/work/75/"
+
+    },
+	{
+      "date":"2016.04.01",
+      "tags":["2016","WebGL","WEBCAM"],
+        "title": "EMOJI WALL",
+        "url": "https://kitasenjudesign.com/work/72/"
+
+	},
+	{
+      "date":"2015.04.01",
+      "tags":["2015","Canvas","CLOCK"],
+        "title": "Helvetica Clock 4",
+        "url": "https://kitasenjudesign.com/work/55/"
+
+	},
+	{
+      "date":"2015.04.01",
+      "tags":["2015","WebGL","CLOCK"],
+        "title": "Cognitive Clock",
+        "url": "https://kitasenjudesign.com/work/71/"
+
+	},
+    {
+      "date":"2015.04.01",
+      "tags":["2015","CANVAS"],
+        "title": "MONA LISA PAINT",
+        "url": "https://kitasenjudesign.com/work/63/"
+    },
+    {
+      "date":"2015.02.10",
+      "tags":["2015","CANVAS"],
+        "title": "MONA LISA KANJI",
+        "url": "https://kitasenjudesign.com/work/53/"
+    },
+
+    {
+      "date":"2015.04.01",
+      "tags":["2015","WebGL","CLOCK"],
+        "title": "Distorted Clock",
+        "url": "https://kitasenjudesign.com/work/60/"
+    },
+
+    {
+      "date":"2015.04.01",
+      "tags":["2015","CANVAS"],
+        "title": "THE QUICK BROWN FOX JUMPS 2",
+        "url": "https://kitasenjudesign.com/work/68/"
+    },
+    {
+      "date":"2014.09.25",
+      "tags":["2014","CANVAS"],
+        "title": "THE QUICK BROWN FOX JUMPS 1",
+        "url": "https://kitasenjudesign.com/work/41/"
+    },
+
+    {
+      "date":"2014.08.10",
+      "tags":["2014","WebGL"],
+        "title": "BAPA Flag",
+        "url": "https://kitasenjudesign.com/work/38/"
+    },
+    {
+      "date":"2015.04.01",
+      "tags":["2015","CANVAS","WEBCAM"],
+        "title": "TOKYO 2020 GENERATOR",
+        "url": "https://kitasenjudesign.com/work/67/"
+    },
+    {
+      "date":"2015.02.10",
+      "tags":["2015","WEBGL","CLOCK"],
+        "title": "Helvetica Clock 3",
+        "url": "https://kitasenjudesign.com/work/65/"
+    },
+
+    {
+      "date":"2015.02.10",
+      "tags":["2015","CANVAS"],
+        "title": "Convergence",
+        "url": "https://kitasenjudesign.com/work/54/"
+    },
+
+    {
+      "date":"2015.01.10",
+      "tags":["2015","WebGL","MusicVideo"],
+        "title": "HANA MUSIC VIDEO",
+        "url": "https://kitasenjudesign.com/work/58/"
+    },
+
+
+
+    {
+      "date":"2014.11.05",
+      "tags":["2014","Flash"],
+        "title": "TECHNE ID",
+        "url": "https://kitasenjudesign.com/work/50/"
+    },
+
+
+    {
+      "date":"2014.11.05",
+      "tags":["2015","WEBGL"],
+        "title": "Introduction 3D",
+        "url": "https://kitasenjudesign.com/work/48/"
+    },
+
+    {
+      "date":"2014.11.05",
+      "tags":["2014","WEBGL","CLOCK"],
+        "title": "Helvetica Clock 2",
+        "url": "https://kitasenjudesign.com/work/46/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2014",
+            "WEBGL"
+        ],
+        "title": "HEAD DANCE 2",
+        "url": "https://kitasenjudesign.com/work/32/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2014",
+            "WEBGL"
+        ],
+        "title": "HEAD DANCE 1",
+        "url": "https://kitasenjudesign.com/work/40/"
+    },
+
+    {
+      "date":"2014.09.25",
+      "tags":["2014","WEBGL"],
+        "title": "EYEBALLS",
+        "url": "https://kitasenjudesign.com/work/43/"
+    },
+
+    {
+      "date":"2014.09.25",
+      "tags":["2014","CANVAS"],
+        "title": "Motion Maker",
+        "url": "https://kitasenjudesign.com/dmm/01/"
+    },
+
+    {
+      "date":"2014.08.04",
+      "tags":["2014","WEBGL","CLOCK"],
+        "title": "Helvetica Clock 1",
+        "url": "https://kitasenjudesign.com/work/39/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2014",
+            "CANVAS"
+        ],
+        "title": "Lissajous Curve",
+        "url": "https://kitasenjudesign.com/work/35/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2014",
+            "FLASH"
+        ],
+        "title": "Blend Color",
+        "url": "https://kitasenjudesign.com/work/33/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2013",
+            "FLASH",
+            "MUSICVIDEO"
+        ],
+        "title": "Tamaki Roy 1",
+        "url": "https://kitasenjudesign.com/work/19/roy.html"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2013",
+            "FLASH",
+            "MUSICVIDEO"
+        ],
+        "title": "Tamaki Roy 2",
+        "url": "https://kitasenjudesign.com/work/22/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH"
+        ],
+        "title": "Bane Grid",
+        "url": "https://kitasenjudesign.com/work/36/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2013",
+            "BOOK",
+            "CANVAS"
+        ],
+        "title": "RANDAM COLLAGER",
+        "url": "https://kitasenjudesign.com/work/27/canvas.html"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2011",
+            "FLASH",
+			"MUSICVIDEO"
+        ],
+        "title": "Perfume locus1",
+        "url": "https://kitasenjudesign.com/perfume/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2011",
+            "FLASH",
+			"MUSICVIDEO"
+        ],
+        "title": "Perfume locus2",
+        "url": "https://kitasenjudesign.com/perfume/2/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2011",
+            "FLASH",
+			"MUSICVIDEO"
+        ],
+        "title": "Perfume motion vector",
+        "url": "https://kitasenjudesign.com/perfume/3/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2011",
+            "FLASH"
+        ],
+        "title": "DOT TYPO",
+        "url": "https://kitasenjudesign.com/work/04/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "FLASH","CLOCK"
+        ],
+        "title": "DOT CLOCK",
+        "url": "https://kitasenjudesign.com/work/05/"
+    },
+
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH",
+			"WEBCAM"
+        ],
+        "title": "Palette Map Cam",
+        "url": "https://kitasenjudesign.com/work/37/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2011",
+            "FLASH"
+        ],
+        "title": "OUTLINE 1",
+        "url": "https://kitasenjudesign.com/work/08/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2013",
+            "FLASH"
+        ],
+        "title": "OUTLINE 3",
+        "url": "https://kitasenjudesign.com/work/28/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH"
+        ],
+        "title": "Perlin Texture",
+        "url": "https://kitasenjudesign.com/work/09/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH",
+			"CLOCK"
+        ],
+        "title": "Moment Clock 2D",
+        "url": "https://kitasenjudesign.com/work/12/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH",
+			"CLOCK"
+        ],
+        "title": "Moment Clock 3D",
+        "url": "https://kitasenjudesign.com/work/15/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2012",
+            "FLASH"
+        ],
+        "title": "Point of view",
+        "url": "https://kitasenjudesign.com/work/13/"
+    },
+    {
+        "date": "2014.05.05",
+        "tags": [
+            "2013",
+            "IMAGE"
+        ],
+        "title": "MOSAIC",
+        "url": "https://kitasenjudesign.com/work/21/"
+    }
+	]
+
+}
