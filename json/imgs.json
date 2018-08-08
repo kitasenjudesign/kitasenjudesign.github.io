@@ -10,7 +10,7 @@
 
 	{
 		"tags":["2016","CANVAS"],
-		"img":"color.gif",
+		"img":"https://kitasenjudesign.github.io/img/color.gif",
 		"url":"https://kitasenjudesign.com/work/35/",
 		"title":""
 	},
@@ -18,7 +18,7 @@
 
 	{
 		"tags":["2018","WEBGL"],
-		"img":"lennaLoop.gif",
+		"img":"https://kitasenjudesign.github.io/img/lennaLoop.gif",
 		"height":240,
 		"url":"https://kitasenjudesign.com/sketch/04/",
 		"title":"PROJECTION"
