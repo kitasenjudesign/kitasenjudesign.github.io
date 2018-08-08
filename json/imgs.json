@@ -1,0 +1,238 @@
+{
+	"imgs":[
+	{
+		"tags":["2018","AR"],
+		"img":"tobidasu.jpg",
+		"url":"",
+		"title":""
+	},
+
+
+	{
+		"tags":["2016","CANVAS"],
+		"img":"color.gif",
+		"url":"https://kitasenjudesign.com/work/35/",
+		"title":""
+	},
+
+
+	{
+		"tags":["2018","WEBGL"],
+		"img":"lennaLoop.gif",
+		"height":240,
+		"url":"https://kitasenjudesign.com/sketch/04/",
+		"title":"PROJECTION"
+	},
+
+
+	{
+		"tags":["2016","WEBGL"],
+		"img":"33_kimaira.gif",
+		"height":240,
+		"url":"",
+		"title":""
+	},
+
+	{
+		"tags":["2016","WEBGL"],
+		"img":"vrdg01.jpg",
+		"url":"",
+		"title":""
+	},
+		{
+			"tags":["2018","WEBGL"],
+			"img":"31_logo.png",
+			"url":"",
+			"title":""
+		},
+		{
+				"tags":["2017","WEBGL"],
+				"img":"xmas.jpg",
+				"url":"http://christmasexperiments.com/2017/17/nyangle-bells/",
+				"title":"NYANGLE BELLS"
+		},
+		{
+				"tags":["2017","ANIMATE"],
+				"img":"22_stamp.gif",
+				"height":240,
+				"url":"https://store.line.me/stickershop/product/1783630/",
+				"title":"SUPER SAD 1.0"
+		},
+		{
+				"tags":["2016","CANVAS"],
+				"img":"30_maptypo.jpg",
+				"url":"http://kitasenjudesign.com/work/84/",
+				"title":"CIRCLE CLOP"
+		},
+		{
+				"tags":["2017","WebGL"],
+				"img":"25_rd.png",
+				"url":"http://glslsandbox.com/e#42671.58",
+				"title":"REACTION DIFFUSION"
+		},
+		{
+				"tags":["2015","WebGL"],
+				"img":"24_clock.png",
+				"url":"https://kitasenjudesign.com/work/60/",
+				"title":"distorted clock"
+		},
+		{
+			"tags":["2017","WebGL","VJ"],
+			"img":"15face.gif",
+			"height":180,
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017","WebGL"],
+			"img":"14_verlet.png",
+			"url":"https://kitasenjudesign.com/work/96/",
+			"title":"VERLET"
+		},
+		{
+			"tags":["2017","WebGL"],
+			"img":"01_wave.png",
+			"url":"https://kitasenjudesign.com/work/95/",
+			"title":"WAVE"
+		},
+		{
+			"tags":["2017", "WebGL", "FEEDBACK"],
+			"img":"02_lap.png",
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017"],
+			"img":"05.png",
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017"],
+			"img":"06.png",
+			"url":"",
+			"title":"MORISAWA POSTER 2017"
+		},
+		{
+			"tags":["2017","EMOJI"],
+			"img":"07.gif",
+			"url":"",
+			"height":300,
+			"title":""
+		},
+		{
+			"tags":["2017"],
+			"img":"08.gif",
+			"url":"",
+			"height":300,
+			"title":""
+		},
+		{
+			"tags":["2015","WEBGL","VJ"],
+			"img":"09.jpg",
+			"url":"",
+			"title":""
+		},
+		{
+				"tags":["2017"],
+				"img":"28_maru.png",
+				"url":"",
+				"title":""
+		},
+		{
+				"tags":["2017","WebGL"],
+				"img":"27_mona.jpg",
+				"url":"",
+				"title":""
+		},
+		{
+			"tags":["2017"],
+			"img":"07fox.png",
+			"url":"https://kitasenjudesign.com/work/41/",
+			"title":"FOX"
+		},
+		{
+			"tags":["2015"],
+			"img":"08_cat.png",
+			"url":"",
+			"title":"LONG CAT"
+		},
+		{
+			"tags":["2017"],
+			"img":"09.png",
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017","WEBGL","VJ"],
+			"img":"10.png",
+			"url":"https://kitasenjudesign.com/work/58/",
+			"title":"SKRIK"
+		},
+		{
+			"tags":["2016"],
+			"img":"11jordan.png",
+			"url":"https://kitasenjudesign.com/work/67/",
+			"title":"TOKYO 2020 GENERATOR"
+		},
+		{
+			"tags":["2017"],
+			"img":"12.png",
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017","Unity"],
+			"img":"13_slitscan.png",
+			"url":"",
+			"title":"SLITSCAN"
+		},
+		{
+			"tags":["2015","WEBGL"],
+			"img":"16_v2.gif",
+			"height":180,
+			"url":"https://kitasenjudesign.com/v2/",
+			"title":"KITASENJU DESIGN V2"
+		},
+
+		{
+			"tags":["2017","FLASH"],
+			"img":"20_roy.jpg",
+			"url":"https://kitasenjudesign.com/work/19/roy.html",
+			"title":"TAMAKI ROY 1"
+		},
+
+		{
+			"tags":["2015","WEBGL","VJ"],
+			"img":"21_face.gif",
+			"url":"",
+			"height":320,
+			"title":""
+		},
+		{
+			"tags":["2017","WebGL"],
+			"img":"23_rail.jpg",
+			"url":"",
+			"title":""
+		},
+		{
+			"tags":["2017","UNITY"],
+			"img":"22_dedemv.jpg",
+			"url":"https://vimeo.com/222307531",
+			"title":"get you back MV"
+		},
+		{
+			"tags":["2015","WEBGL"],
+			"img":"17_clock.png",
+			"url":"https://kitasenjudesign.com/work/46/",
+			"title":"CLOCK2"
+		},
+		{
+			"tags":["2015","WEBGL"],
+			"img":"19_eye.png",
+			"url":"",
+			"title":""
+		}
+
+	]
+}
