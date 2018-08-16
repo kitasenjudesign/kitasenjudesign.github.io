@@ -2,6 +2,12 @@
 	"imgs":[
 	{
 		"tags":["2018","AR"],
+		"img":"https://kitasenjudesign.github.io/img/braindrool.jpg",
+		"url":"http://brain-drool.jp/2018/",
+		"title":"BRAIN DROOL 2018"
+	},		
+	{
+		"tags":["2018","AR"],
 		"img":"https://kitasenjudesign.github.io/img/jidorhythm.gif",
 		"url":"http://kitasenjudesign.com/jido-rhythm/",
 		"title":"JIDO-RHYTHM"
