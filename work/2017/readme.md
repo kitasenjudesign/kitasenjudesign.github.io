@@ -2,36 +2,42 @@
 
 ## 2018
 * トモテレ
-* AUDIO ARCHITECTURE
+* AUDIO ARCHITECTURE JIDO-RHYTHM
+
 
 ## 2017
-* meteor broadcaster
+* Meteor Broadcaster
 * TANABATARIUM
 * Tokyo Trip
-* VR野球
+
 
 ## 2016
-* prius id
-* coffee moment amsemble
-* Shin Godzillar
+* Prius ID
+* COFFEE MOMENT ENSEMBLE
+* Shin Godzilla
+
 
 ## 2015
 * Neymar Crazy Skills
 
+
 ## 2014
 * Haruhi Hunting
-* drive-go-round
+* DRIVE-GO-ROUND
 * クリスマスボックス
 * のび太と空中散歩
+
 
 ## 2013
 * tokyo city symphony
 * 脳科学研究所
 * 金曜カーソル
 
+
 ## 2012
 * social hitchhike
 * dot switch
+
 
 ## 2011
 * axe go direct
@@ -63,10 +69,10 @@
 * アックスバスターズ
 * アックスレーザー
 
+
 ## 2006
 * 夏休み大作戦　
 * きちんとさん
-* オレンジジュースのやつ
 * オリンパスワンダー
 
 
