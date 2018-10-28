@@ -1,3 +1,7 @@
+body{
+  background-color: #cccccc;
+}
+
 h1{
   display: none;
 }
@@ -5,4 +9,5 @@ h1{
 .markdown-body{
   width: 800px;
   margin: 50px auto;
+  background-color: #ffffff;
 }
