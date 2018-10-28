@@ -2,6 +2,13 @@
 	"imgs":[
 	{
 		"tags":["2016","WEBGL"],
+		"iframe":true,
+		"img":"http://kitasenjudesign.com/sketch/06/",
+		"url":"",
+		"title":"UZU"
+	},
+	{
+		"tags":["2016","WEBGL"],
 		"img":"https://kitasenjudesign.github.io/img/emoji_uzu.gif",
 		"url":"",
 		"title":"UZU"
