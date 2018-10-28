@@ -17,7 +17,7 @@
 
 
 ![a](./tanabata/01.jpg)
-![a](./tanabata/01.jpg)
+![a](./tanabata/02.jpg)
 
 * Client / 
 * Role / Development
@@ -50,6 +50,7 @@
 
 ![a](./haruhi/01.jpg)
 ![a](./haruhi/02.jpg)
+![a](./haruhi/03.jpg)
 
 * Client / Mori Building
 * Role 
@@ -69,3 +70,9 @@
 
 * Client / Mori Building
 * Role 
+
+## KABUKI AVATAR
+
+![a](./kabuki/01.jpg)
+![a](./kabuki/02.jpg)
+
