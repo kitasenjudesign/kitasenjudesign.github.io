@@ -1,6 +1,12 @@
 
 ## TANABATARIUM
 
+![a](image_default.jpg)
+![a](image_default.jpg)
+
+* CLIENT / 
+* ROLE / DEVELOPMENT
+
 ## トモテレ
 
 ## Neymar Crazy Skills
