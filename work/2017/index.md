@@ -1,5 +1,7 @@
 # バスキュールでの仕事リスト
 
+ここは独立以前にやっていた仕事のリスト
+
 ## 2018
 * トモテレ
 * AUDIO ARCHITECTURE JIDO-RHYTHM
