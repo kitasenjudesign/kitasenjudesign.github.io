@@ -2,6 +2,7 @@ h1{
   display: hidden;
 }
 
-container-lg px-3 my-5 markdown-body{
+.markdown-body{
   width: 800px;
+  margin: 0 auto;
 }
