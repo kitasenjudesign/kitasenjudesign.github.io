@@ -1,28 +1,28 @@
+## トモテレ - 2018
 
-## TANABATARIUM - 2018
-* Client / NTV
-* Role / Direction, Development
-
-七夕用４分半の映像インスタレーション。事前にユーザは願いの入力と動画を撮影し、映像内に参加できる。自分たちの持つスキルだけでできる方法を考え、Vコン製作から始まり、Unityでの実装までを担当しました。演出は2名で分担して考えました。
-
-![a](./tanabata/01.jpg)
-![a](./tanabata/01.jpg)
+テレビ東京の特番。インタラクティブなテレビ番組のユーザ投票のビジュアライズ。
 
 
-
-## トモテレ
-
-ここに説明を書く。ここに説明を書く。ここに説明を書く。ここに説明を書く。
-ここに説明を書く。ここに説明を書く。
-
-
-![a](./tanabata/01.jpg)
-![a](./tanabata/02.jpg)
+![a](./tomo/01.jpg)
+![a](./tomo/02.jpg)
+![a](./tomo/03.jpg)
 
 * Client / 
 * Role / Development
 
-## Neymar Crazy Skills
+
+## TANABATARIUM - 2017
+* Client / NTV
+* Role / Direction, Development
+
+七夕用４分半の映像インスタレーション。事前にユーザは願いの入力と動画を撮影し、映像内に参加できる。Vコン製作から始まり、Unityでの実装までを担当。
+
+![a](./tanabata/01.jpg)
+![a](./tanabata/01.jpg)
+
+
+
+## Neymar Crazy Skills - 2016
 
 ネイマールの技モーションをWebGLで見られる企画。はじめてWebGLを本格的に使ってコンテンツ。PCのHTMLを含めた実装と、ネイマールが並んでるリストやカメラアングルなどの演出を考えました。
 
