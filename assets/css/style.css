@@ -13,6 +13,8 @@ p{
 ul{
   list-style: none;
   color: #888888;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 h1{
