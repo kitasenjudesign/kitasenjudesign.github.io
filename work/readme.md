@@ -1,18 +1,4 @@
-# Kitasenju Design Work 2018
+Kitasenju Design Works
 
-## JIDO-RHYTHM
-* http://kitasenjudesign.com/jido-rhythm/
-
-## Brain Drool 2018
-* 
-
-## Handy.dance
-
-
-## Generative Digital Signage
-
-## Mr.Children Tour 2018 MONSTER Live Effect
-
-## MuDA
-
-## Google Pixel
+* [2017](./2017/)
+* [2018](./2018/)
