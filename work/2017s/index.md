@@ -1,18 +1,18 @@
 ## トモテレ - 2018
+* Client / テレビ東京
+* Role /
 
 テレビ東京の特番。インタラクティブなテレビ番組のユーザ投票のビジュアライズ。
 
 
-![a](./tomo/01.jpg)
 ![a](./tomo/02.jpg)
+![a](./tomo/01.jpg)
 ![a](./tomo/03.jpg)
-
-* Client / 
-* Role / Development
 
 
 ## TANABATARIUM - 2017
-* Client / NTV
+
+* Client / 日本テレビ
 * Role / Direction, Development
 
 七夕用４分半の映像インスタレーション。事前にユーザは願いの入力と動画を撮影し、映像内に参加できる。Vコン製作から始まり、Unityでの実装までを担当。
