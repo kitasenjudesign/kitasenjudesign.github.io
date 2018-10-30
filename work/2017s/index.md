@@ -5,6 +5,7 @@
 
 * Client / テレビ東京
 * Role / 実装(Unity)
+* URL / --
 
 テレビ東京の特番。インタラクティブなテレビ番組のユーザ投票のビジュアライズ。
 
@@ -16,12 +17,12 @@
 
 * Client / 日本テレビ
 * Role / ディレクション、実装(Unity)
+* URL / --
 
 七夕用４分半の映像インスタレーション。事前にユーザは願いの入力と動画を撮影し、映像内に参加できる。Vコン製作から始まり、Unityでの実装までを担当。
 
 ![a](./tanabata/01.jpg)
 ![a](./tanabata/01.jpg)
-
 
 
 ## Neymar Crazy Skills - 2016
@@ -64,15 +65,10 @@
 * Client / Mori Building
 * Role 
 
-## MAKE TV
-
-![a](./tanabata/01.jpg)
-![a](./tanabata/01.jpg)
-
-* Client / Mori Building
-* Role 
 
 ## KABUKI AVATAR
+
+ステージとカメラアングルを制作
 
 ![a](./kabuki/01.jpg)
 ![a](./kabuki/02.jpg)
