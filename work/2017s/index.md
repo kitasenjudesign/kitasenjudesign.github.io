@@ -38,6 +38,7 @@
 ## TOKYO CITY SYMPHONY - 2014
 * Client / 森ビル
 * Role / 実装(Flash)
+* URL / https://www.bascule.co.jp/work/tokyo-city-symphony/
 
 森ビルの1/1000模型にプロジェクション映像を素材にしてユーザーが音楽を奏でられる企画。音と動画がずれないように、とか、現場で撮影したものをすぐに確認するようにできるようにするとか、プロトタイプの作成から実装を担当。
 
