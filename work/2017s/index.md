@@ -1,7 +1,7 @@
 
-# Selected Works - 2018
+# Selected Works - 2017
 
-## トモテレ - 2018
+## トモテレ - 2017
 
 * Client / テレビ東京
 * Role / 実装(Unity)
@@ -23,6 +23,18 @@
 
 ![a](./tanabata/01.jpg)
 ![a](./tanabata/01.jpg)
+
+
+## KABUKI AVATAR - 2016
+
+* Client / Panasonic
+* Role / 実装(Cinema4D)
+* URL / https://www.bascule.co.jp/work/kabuki-avatar/
+
+ステージとカメラアングルを制作
+
+![a](./kabuki/01.jpg)
+![a](./kabuki/02.jpg)
 
 
 ## Neymar Crazy Skills - 2015
@@ -73,14 +85,5 @@
 
 
 
-## KABUKI AVATAR - 2016
 
-* Client / Panasonic
-* Role / 実装(Cinema4D)
-* URL / https://www.bascule.co.jp/work/kabuki-avatar/
-
-ステージとカメラアングルを制作
-
-![a](./kabuki/01.jpg)
-![a](./kabuki/02.jpg)
 
