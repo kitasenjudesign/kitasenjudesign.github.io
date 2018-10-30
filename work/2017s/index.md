@@ -1,5 +1,5 @@
 
-# Selected Works - 2017
+# Selected Works 〜2017
 
 ## トモテレ - 2017
 
