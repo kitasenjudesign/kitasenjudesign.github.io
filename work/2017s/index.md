@@ -17,7 +17,7 @@
 
 * Client / 日本テレビ
 * Role / ディレクション、実装(Unity)
-* URL / --
+* URL / https://www.bascule.co.jp/work/tanabatarium2017/
 
 七夕用４分半の映像インスタレーション。ユーザは事前に願いの入力と動画を撮影し、映像内に参加できる。Vコン製作から始まり、Unityでの実装までを担当。
 
@@ -25,10 +25,10 @@
 ![a](./tanabata/01.jpg)
 
 
-## Neymar Crazy Skills - 2016
+## Neymar Crazy Skills - 2015
 * Client / Panasonic 
 * Role / 演出, 実装(WebGL)
-* URL / --
+* URL / https://www.bascule.co.jp/work/neymar-jr-crazy-skills/
 
 ネイマールの技モーションをWebGLで見られる企画。はじめてWebGLを本格的に使ってコンテンツ。PCの実装と、ネイマールが並んでるリストやカメラアングルなどの演出を考えた。
 
@@ -53,7 +53,7 @@
 * Client / Mori Building
 * Role 
 
-## Haruhi Hunting - 2015
+## Haruhi Hunting - 2014
 
 日本全国に配置されたハルヒの映像の各フレームをユーザーに写真に撮ってもらいみんなで動画を作ろうとういう企画。この頃、構造を視覚化するとそれだけで面白いという発見があり、トップのムービーからインターフェイスが全体が、企画を体現しているようなインターフェイスになっています。
 
