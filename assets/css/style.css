@@ -18,6 +18,10 @@ ul{
   margin-left: 0;
 }
 
+h1{
+  color: #0000ff;
+}
+  
 h1:first-child{
   display: none;
 }
