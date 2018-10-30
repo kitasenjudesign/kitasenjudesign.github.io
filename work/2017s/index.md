@@ -48,6 +48,10 @@
 
 ## Drive Go Round - 2015
 
+* Client / TOYOTA
+* Role / 実装(Flash)
+* URL / --
+
 ![a](./drive/drive01.jpg)
 ![a](./drive/drive02.jpg)
 
@@ -56,20 +60,23 @@
 
 ## Haruhi Hunting - 2014
 
+* Client / --
+* Role / 実装(Flash)
+* URL / --
+
 日本全国に配置されたハルヒの映像の各フレームをユーザーに写真に撮ってもらいみんなで動画を作ろうとういう企画。この頃、構造を視覚化するとそれだけで面白いという発見があり、トップのムービーからインターフェイスが全体が、企画を体現しているようなインターフェイスになっています。
 
 ![a](./haruhi/01.jpg)
 ![a](./haruhi/02.jpg)
 ![a](./haruhi/03.jpg)
 
-* Client / Mori Building
-* Role 
 
 
-## KABUKI AVATAR
+
+## KABUKI AVATAR - 2016
 
 * Client / Panasonic
-* Role / 実装(Unity)
+* Role / 実装(Cinema4D)
 * URL / https://www.bascule.co.jp/work/kabuki-avatar/
 
 ステージとカメラアングルを制作
