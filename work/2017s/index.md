@@ -61,9 +61,6 @@
 ![a](./drive/drive01.jpg)
 ![a](./drive/drive02.jpg)
 
-* Client / Mori Building
-* Role 
-
 
 ## Haruhi Hunting - 2014
 
