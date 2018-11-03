@@ -41,6 +41,7 @@
 
 ## Mr.Children Tour 2018 MONSTER Live Effect
 
+* Format / Desktop App
 * Client / ENGINE
 * Role / 実装(Unity)
 * URL / --
