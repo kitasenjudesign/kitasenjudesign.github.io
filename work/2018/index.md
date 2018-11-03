@@ -28,13 +28,16 @@
 
 神田明神で行われた盆踊りの際に、巨大なLEDディスプレイを用意し、それを提灯に見立て、曲に合わせてVJを行なった。
 
+
 ## Generative Digital Signage
 
-* Client / Handy
+* Format / Desktop App
+* Client / 未公表
 * Role / 実装(Unity)
 * URL / --
 
 デジタルサイネージのための
+
 
 ## Mr.Children Tour 2018 MONSTER Live Effect
 
@@ -52,6 +55,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 演出、実装(WebGL)
 * URL / --
 
+スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。
 
 ## Magic Illumination
 
