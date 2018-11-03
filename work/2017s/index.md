@@ -17,7 +17,7 @@
 
 * Client / 日本テレビ
 * Role / ディレクション、実装(Unity)
-* URL / https://www.bascule.co.jp/work/tanabatarium2017/
+* URL / [https://www.bascule.co.jp/work/tanabatarium2017/](https://www.bascule.co.jp/work/tanabatarium2017/)
 
 七夕用４分半の映像インスタレーション。ユーザは事前に願いの入力と動画を撮影し、映像内に参加できる。Vコン製作から始まり、Unityでの実装までを担当。
 
@@ -29,7 +29,7 @@
 
 * Client / Panasonic
 * Role / 実装(Cinema4D)
-* URL / https://www.bascule.co.jp/work/kabuki-avatar/
+* URL / [https://www.bascule.co.jp/work/kabuki-avatar/](https://www.bascule.co.jp/work/kabuki-avatar/)
 
 ステージとカメラアングルを制作
 
@@ -78,7 +78,7 @@
 ## TOKYO CITY SYMPHONY - 2013
 * Client / 森ビル
 * Role / 実装(Flash)
-* URL / https://www.bascule.co.jp/work/tokyo-city-symphony/
+* URL / [https://www.bascule.co.jp/work/tokyo-city-symphony/](https://www.bascule.co.jp/work/tokyo-city-symphony/)
 
 森ビルの1/1000模型にプロジェクション映像を素材にしてユーザーが音楽を奏でられる企画。音と動画がずれないように、とか、現場で撮影したものをすぐに確認するようにできるようにするとか、プロトタイプの作成から実装を担当。
 
