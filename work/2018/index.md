@@ -10,6 +10,7 @@
 21_21 DESGIN SIGHTで行われた　Audio　Architecture展に出展したアプリ。
 ミュージックビデオのフォーマットに自撮りを取りこんだ、インタラクティブなミュージックビデオ。
 
+![jido](https://kitasenjudesign.github.io/img/jidorhythm3.gif)
 
 ## Brain Drool 2018
 
@@ -18,6 +19,7 @@
 * Role / 実装(HTML,CSS,JS)
 * URL / http://brain-drool.jp/2018/
 
+![jido](https://kitasenjudesign.github.io/img/braindrool.jpg)
 
 ## Handy.dance
 
