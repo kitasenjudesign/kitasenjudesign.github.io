@@ -6,6 +6,10 @@ body{
   font-feature-settings : "palt" 1;
 }
 
+::selection {
+    background: #ff0;
+}
+
 p{
   margin: 0;
   padding: 10px 0;
