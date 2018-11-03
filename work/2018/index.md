@@ -1,5 +1,6 @@
 # Kitasenju Design Work 2018
 
+
 ## JIDO-RHYTHM
 
 * Format / Smartphone App
@@ -12,6 +13,7 @@
 
 ![jido](https://kitasenjudesign.github.io/img/jidorhythm3.gif)
 
+
 ## Brain Drool 2018
 
 * Format / Website
@@ -20,6 +22,7 @@
 * URL / http://brain-drool.jp/2018/
 
 ![jido](https://kitasenjudesign.github.io/img/braindrool.jpg)
+
 
 ## Handy.dance
 
@@ -54,11 +57,12 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 ## MuDA
 
 * Format / Website
-* Client / Handy
+* Client / MuDA
 * Role / 演出、実装(WebGL)
 * URL / --
 
 スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。
+
 
 ## Magic Illumination
 
