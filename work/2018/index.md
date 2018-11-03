@@ -41,7 +41,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-デジタルサイネージのための
+デジタルサイネージ用のトランジションエフェクトを制作。
 
 
 ## Mr.Children Tour 2018 MONSTER Live Effect
