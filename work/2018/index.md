@@ -33,6 +33,7 @@
 
 神田明神で行われた盆踊りの際に、巨大なLEDディスプレイを用意し、それを提灯に見立て、曲に合わせてVJを行なった。
 
+![kanda](./img/handy01.jpg)
 
 ## Generative Digital Signage
 
