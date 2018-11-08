@@ -85,7 +85,8 @@
 ![a](./tcs/01.jpg)
 ![a](./tcs/02.jpg)
 
-#### Mail nabe(at)kitasenjudesign.com / Web http://kitasenjudesign.com
+#### Mail nabe(at)kitasenjudesign.com
+#### Web http://kitasenjudesign.com
 
 
 
