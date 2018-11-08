@@ -21,7 +21,6 @@ ul{
   color: #888888;
   padding-left: 0;
   margin-left: 0;
-  font-size: small;
 }
 
 h1{
@@ -46,4 +45,9 @@ img{
   margin: 0px auto;
   padding: 10px 10px;
   background-color: #ffffff;
+}
+
+#credit{
+  color: #0000ff;
+  font-size: normal;
 }
