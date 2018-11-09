@@ -31,7 +31,7 @@
 * Role / 実装(Cinema4D)
 * URL / [https://www.bascule.co.jp/work/kabuki-avatar/](https://www.bascule.co.jp/work/kabuki-avatar/)
 
-ステージとカメラアングルを制作
+ラスベガスで行われた歌舞伎の公演の際に行われた催し。お客さんがフォトスキャンすると、それが実際の歌舞伎役者のモーションで再現される。Cinema4Dでテンプレを作り、カメラアングルやステージなどを作った。
 
 ![a](./kabuki/01.jpg)
 ![a](./kabuki/02.jpg)
@@ -42,7 +42,7 @@
 * Role / 演出, 実装(WebGL)
 * URL / https://www.bascule.co.jp/work/neymar-jr-crazy-skills/
 
-ネイマールの技モーションをWebGLで見られる企画。はじめてWebGLを本格的に使ってコンテンツ。PCの実装と、ネイマールが並んでるリストやカメラアングルなどの演出を考えた。
+ネイマールの技モーションをWebGLで見られる企画。PCの実装と、ネイマールが並んでるリストやカメラアングルなどの演出を考えた。
 
 ![a](./neymar/01.jpg)
 ![a](./neymar/02.jpg)
