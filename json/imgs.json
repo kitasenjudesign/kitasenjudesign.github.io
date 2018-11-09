@@ -1,6 +1,12 @@
 {
 	"imgs":[
 	{
+		"tags":["2018","WEBGL"],
+		"img":"https://kitasenjudesign.github.io/img/projectionTypo.png",
+		"url":"https://kitasenjudesign.com/sketch/07/",
+		"title":"PROJECTION"
+	},		
+	{
 		"tags":["2016","WEBGL"],
 		"img":"https://kitasenjudesign.github.io/img/emoji_uzu.gif",
 		"url":"",
