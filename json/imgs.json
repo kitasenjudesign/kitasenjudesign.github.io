@@ -2,6 +2,12 @@
 	"imgs":[
 	{
 		"tags":["2018","WEBGL"],
+		"img":"https://kitasenjudesign.github.io/img/mapTypo1.jpg",
+		"url":"",
+		"title":""
+	},		
+	{
+		"tags":["2018","WEBGL"],
 		"img":"https://kitasenjudesign.github.io/img/projectionTypo.png",
 		"url":"https://kitasenjudesign.com/sketch/07/",
 		"title":"PROJECTION"
