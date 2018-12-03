@@ -2,6 +2,12 @@
 	"imgs":[
 	{
 		"tags":["2018","WEBGL"],
+		"img":"https://kitasenjudesign.github.io/img/muda01.png",
+		"url":"http://kitasenjudesign.com/sketch/05/",
+		"title":"MuDA"
+	},	
+	{
+		"tags":["2018","WEBGL"],
 		"img":"https://kitasenjudesign.github.io/img/mapTypo1.jpg",
 		"url":"",
 		"title":""
