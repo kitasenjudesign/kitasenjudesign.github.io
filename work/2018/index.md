@@ -56,6 +56,7 @@
 
 Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクトの制作。
 
+![children](./img/MrChildren.png)
 
 ## MuDA
 
