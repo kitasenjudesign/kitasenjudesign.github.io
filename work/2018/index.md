@@ -77,7 +77,6 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 実装(Unity)
 * URL / --
 
-
 表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
 
 ![magic](./img/pixel.png)
@@ -86,6 +85,9 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 
 * Format / Smartphone App
 * Client / DNP
-* Role / 作品提供（実装・演出)
+* Role / 演出、実装(Unity)
 
+ソニーパーク内で行われたAAAR展への作品提供。
+
+![magic](https://kitasenjudesign.github.io/img/solitaire.gif)
 
