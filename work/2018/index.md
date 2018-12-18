@@ -75,7 +75,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 実装(Unity)
 * URL / --
 
-![magic](./img/pixel.jpg)
+![magic](./img/pixel.png)
 
 表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
 
