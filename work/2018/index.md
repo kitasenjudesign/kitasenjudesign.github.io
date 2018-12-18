@@ -46,6 +46,7 @@
 
 デジタルサイネージ用のトランジションエフェクトを制作。
 
+![children](./img/signage.png)
 
 ## Mr.Children Tour 2018 MONSTER Live Effect
 
@@ -76,9 +77,10 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 実装(Unity)
 * URL / --
 
-![magic](./img/pixel.png)
 
 表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
+
+![magic](./img/pixel.png)
 
 ## AAAR
 
