@@ -65,6 +65,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * URL / --
 
 スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。
+
 ![MuDA](https://kitasenjudesign.github.io/img/muda01.png)
 
 ## Magic Illumination
@@ -73,6 +74,8 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Client / Google
 * Role / 実装(Unity)
 * URL / --
+
+![magic](./img/pixel.jpg)
 
 表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
 
