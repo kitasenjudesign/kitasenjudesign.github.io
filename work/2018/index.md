@@ -21,6 +21,8 @@
 * Role / 実装(HTML,CSS,JS)
 * URL / http://brain-drool.jp/2018/
 
+脳よだれ展という写真展のウェブサイト。トップページでよだれを表現。
+
 ![jido](https://kitasenjudesign.github.io/img/braindrool.jpg)
 
 
@@ -52,7 +54,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクト。
+Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクトの制作。
 
 
 ## MuDA
