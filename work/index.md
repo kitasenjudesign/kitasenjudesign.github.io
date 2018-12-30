@@ -4,4 +4,6 @@
 * [2018](./2018/)
 * [2019](./2019/)
 
+--
+
 * [SRC](https://github.com/kitasenjudesign/kitasenjudesign.github.io)
