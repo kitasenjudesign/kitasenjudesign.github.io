@@ -85,7 +85,7 @@
 ![a](./tcs/01.jpg)
 ![a](./tcs/02.jpg)
 
-#### [Work List](https://kitasenjudesign.github.io/work/)
+#### [INDEX](https://kitasenjudesign.github.io/work/)
 
 
 
