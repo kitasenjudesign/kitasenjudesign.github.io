@@ -80,6 +80,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
 
 ![magic](./img/pixel.png)
+![magic](./img/pixel2.jpg)
 
 ## AAAR
 
