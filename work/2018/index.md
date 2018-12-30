@@ -44,7 +44,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-デジタルサイネージ用のトランジションエフェクトを制作。
+デジタルサイネージ用のトランジションエフェクトを制作。画像をピクセルに分解して別画像にモーフィング。
 
 ![children](./img/signage.png)
 
@@ -66,7 +66,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 演出、実装(WebGL)
 * URL / --
 
-スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。
+スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。
 
 ![MuDA](https://kitasenjudesign.github.io/img/muda01.png)
 
@@ -77,7 +77,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 実装(Unity)
 * URL / --
 
-表参道で行われたイルミネーションの制御用のアプリケーションの演出、制作。
+表参道で行われたイルミネーションのシミュレーターと制御用のアプリケーションの演出、制作。
 
 ![magic](./img/pixel.png)
 ![magic](./img/pixel2.jpg)
@@ -88,7 +88,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Client / DNP
 * Role / 演出、実装(Unity)
 
-ソニーパーク内で行われたAAAR展への作品提供。
+ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろたくさん出す。
 
 ![magic](https://kitasenjudesign.github.io/img/solitaire.gif)
 
