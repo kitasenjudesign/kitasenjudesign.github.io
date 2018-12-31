@@ -88,7 +88,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Client / DNP
 * Role / 演出、実装(Unity)
 
-ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろ３つのモチーフをAR上でめっちゃ複製。
+ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろ３つのモチーフをAR上で複製しまくるというもの。
 
 ![magic](https://kitasenjudesign.github.io/img/solitaire.gif)
 
