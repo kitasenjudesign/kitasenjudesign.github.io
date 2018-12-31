@@ -33,18 +33,18 @@
 * Role / 実装(Unity)
 * URL / --
 
-神田明神で行われた盆踊りの際に、巨大なLEDディスプレイを用意し、それを提灯に見立て、曲に合わせてVJを行なった。
+神田明神で行われた盆踊りの際に、巨大な円筒状の提灯風のLEDディスプレイを用意し、動的にユーザの名前を表示できるシステムを制作。あとVJ的な仕組みも。
 
 ![kanda](./img/handy01.jpg)
 
-## Generative Digital Signage
+## Generative Digital Signagege
 
 * Format / Desktop App
 * Client / 未公表
 * Role / 実装(Unity)
 * URL / --
 
-デジタルサイネージ用のトランジションエフェクトを制作。画像をピクセルに分解して別画像にモーフィング。
+デジタルサイネージ用のトランジションエフェクトを２種類制作。ひとつは画像をピクセルに分解して別画像にモーフィング。もうひとつは物理シミュレーションでモザイク画をつくるというもの。
 
 ![children](./img/signage.png)
 
@@ -55,7 +55,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクトの制作。
+Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクトの制作。グリッチ的エフェクトをこねくりまわした。
 
 ![children](./img/MrChildren.png)
 
@@ -82,7 +82,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 ![magic](./img/pixel.png)
 ![magic](./img/pixel2.jpg)
 
-## AAAR
+## AAAR vol1
 
 * Format / Smartphone App
 * Client / DNP
