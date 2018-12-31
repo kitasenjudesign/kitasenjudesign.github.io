@@ -1,7 +1,7 @@
 # Kitasenju Design Work 2018
 
 
-## AAAR
+## AAAR vol1
 
 * Format / Smartphone App
 * Client / DNP
@@ -9,10 +9,10 @@
 * URL / --
 
 
-## PORTAL
+## ---
 
 * Format / Smartphone App (AR)
-* Client / ONWARD
+* Client / ---
 * Role / 実装(Unity)
 * URL / --
 
