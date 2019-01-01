@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # Kitasenju Design Works
 
 ## [〜2017](./2017s/)
