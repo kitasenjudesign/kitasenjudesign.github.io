@@ -38,7 +38,7 @@
 
 ![kanda](./img/handy01.jpg)
 
-## Generative Digital Signagege
+## Generative Digital Signage
 
 * Format / Desktop App
 * Client / 未公表
