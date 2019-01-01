@@ -6,7 +6,7 @@
 * Format / Smartphone App
 * Client / --
 * Role / 実装(Unity)
-* URL / http://kitasenjudesign.com/jido-rhythm/
+* URL / [http://kitasenjudesign.com/jido-rhythm/](http://kitasenjudesign.com/jido-rhythm/)
 
 21_21 DESGIN SIGHTで行われた　Audio　Architecture展に出展したアプリ。
 ミュージックビデオのフォーマットに自撮りを取りこんだ、インタラクティブなミュージックビデオ。
@@ -20,7 +20,7 @@
 * Format / Website
 * Client / 博報堂
 * Role / 実装(HTML,CSS,JS)
-* URL / http://brain-drool.jp/2018/
+* URL / [http://brain-drool.jp/2018/](http://brain-drool.jp/2018/)
 
 脳よだれ展という写真展のウェブサイト。トップページでよだれを表現。
 
@@ -65,7 +65,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Format / Website
 * Client / MuDA
 * Role / 演出、実装(WebGL)
-* URL / http://kitasenjudesign.com/sketch/13/
+* URL / [http://kitasenjudesign.com/sketch/13/](http://kitasenjudesign.com/sketch/13/)
 
 スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。暇な時間を見つけては、いじっていた習作がこんな形で日の目にあたりうれしい。
 
@@ -76,7 +76,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Format / Desktop App
 * Client / Google
 * Role / 実装(Unity)
-* URL / https://www.youtube.com/watch?v=k0Yp1PWHhuc
+* URL / [https://www.youtube.com/watch?v=k0Yp1PWHhuc](https://www.youtube.com/watch?v=k0Yp1PWHhuc)
 
 表参道で行われたイルミネーションのシミュレーターとDMX制御用のアプリケーションの制作。
 
@@ -88,7 +88,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Format / Smartphone App
 * Client / DNP
 * Role / 演出、実装(Unity)
-* URL / https://artscape.jp/ginza/
+* URL / [https://artscape.jp/ginza/](https://artscape.jp/ginza/)
 
 ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろ３つのモチーフをAR上で複製しまくるというもの。第１弾。
 
