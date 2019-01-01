@@ -1,4 +1,4 @@
-# Kitasenju Design Work 2018
+# Kitasenju Design 制作物 2018
 
 
 ## JIDO-RHYTHM
