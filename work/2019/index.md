@@ -9,7 +9,7 @@
 * URL / --
 
 
-## ---
+## coming soon
 
 * Format / Smartphone App (AR)
 * Client / ---
