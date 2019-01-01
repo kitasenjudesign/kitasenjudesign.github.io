@@ -22,7 +22,7 @@
 * Role / 実装(HTML,CSS,JS)
 * URL / [http://brain-drool.jp/2018/](http://brain-drool.jp/2018/)
 
-脳よだれ展という写真展のウェブサイト。トップページでよだれを表現。
+スパイラルで行われた脳よだれ展という写真展のウェブサイト。トップページでよだれを表現。
 
 ![jido](https://kitasenjudesign.github.io/img/braindrool.jpg)
 
@@ -67,7 +67,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 演出、実装(WebGL)
 * URL / [http://kitasenjudesign.com/sketch/13/](http://kitasenjudesign.com/sketch/13/)
 
-スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。暇な時間を見つけては、いじっていた習作がこんな形で日の目にあたりうれしい。
+スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。暇な時間を見つけては、いじっていた習作がこんな形で日の目にあたりうれしい。そのうちちゃんと公開。
 
 ![MuDA](https://kitasenjudesign.github.io/img/muda01.png)
 
