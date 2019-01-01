@@ -30,7 +30,9 @@ ul{
 
 h1{
   color: #0000ff;
-  font-size: normal;
+  font-size: 1.5em;
+  padding: 50px;
+  text-align: center;
 }
   
 h1:first-child{
