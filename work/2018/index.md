@@ -10,6 +10,7 @@
 
 21_21 DESGIN SIGHTで行われた　Audio　Architecture展に出展したアプリ。
 ミュージックビデオのフォーマットに自撮りを取りこんだ、インタラクティブなミュージックビデオ。
+以前から作っていた顔変形エフェクトの集大成。
 
 ![jido](https://kitasenjudesign.github.io/img/jidorhythm3.gif)
 
@@ -44,7 +45,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-デジタルサイネージ用のトランジションエフェクトを２種類制作。ひとつは画像をピクセルに分解して別画像にモーフィング。もうひとつは物理シミュレーションでモザイク画をつくるというもの。
+デジタルサイネージ用のトランジションエフェクトを２種類制作。ひとつは画像をピクセルに分解して別画像にモーフィング。もうひとつは物理シミュレーションでモザイク画をつくるというもの（画像はない）。
 
 ![children](./img/signage.png)
 
@@ -66,7 +67,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 演出、実装(WebGL)
 * URL / http://kitasenjudesign.com/sketch/13/
 
-スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。
+スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。暇な時間を見つけては、いじっていた習作がこんな形で日の目にあたりうれしい。
 
 ![MuDA](https://kitasenjudesign.github.io/img/muda01.png)
 
@@ -89,7 +90,7 @@ Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフ�
 * Role / 演出、実装(Unity)
 * URL / https://artscape.jp/ginza/
 
-ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろ３つのモチーフをAR上で複製しまくるというもの。
+ソニーパーク内で行われたAAAR展への作品提供。Instancingというテーマでいろいろ３つのモチーフをAR上で複製しまくるというもの。第１弾。
 
 ![magic](https://kitasenjudesign.github.io/img/solitaire.gif)
 
