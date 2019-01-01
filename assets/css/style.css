@@ -16,6 +16,7 @@ body{
 }
 
 p{
+  text-align; justify;
   margin: 0;
   padding: 10px 0;
 }
