@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2018
+---
+
 # Kitasenju Design 制作物 2018
 
 
