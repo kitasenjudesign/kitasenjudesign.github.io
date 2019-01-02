@@ -7,7 +7,7 @@ body{
   margin: 0;
   padding: 0;
   font-family:  "Roboto", Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-  font-feature-settings : "palt" 2;
+  font-feature-settings : "palt" 1;
 }
 
 ::selection {
@@ -33,12 +33,15 @@ h1{
   font-size: 1.5em;
   padding: 50px;
   text-align: center;
+  line-height: 1.5em;
 }
 
 h2{
     color: #0000ff;
     font-size: 1.5em;
     border-bottom: 2px solid #0000ff;
+    ine-height: 1.5em;
+    padding-bottom: 7px;
 }
 
 img{
@@ -51,6 +54,7 @@ img{
   margin: 0px auto;
   padding: 10px 10px;
   background-color: #ffffff;
+  ine-height: 1.5em;
 }
 
 h4{
