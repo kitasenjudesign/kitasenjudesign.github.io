@@ -1,3 +1,7 @@
+---
+layout: default
+title: -2017
+---
 
 # Selected Works 〜2017
 
