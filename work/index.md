@@ -1,6 +1,6 @@
 ---
 layout: default
-title: work index
+title: index
 ---
 
 # Kitasenju Design Works
