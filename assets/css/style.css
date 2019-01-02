@@ -34,10 +34,6 @@ h1{
   padding: 50px;
   text-align: center;
 }
-  
-h1:first-child{
-  display: none;
-}
 
 h2{
     color: #0000ff;
