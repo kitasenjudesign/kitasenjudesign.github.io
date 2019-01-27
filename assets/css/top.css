@@ -46,8 +46,8 @@ h1{
 h2{
     color: #0000ff;
     font-size: 1.5em;
-    /*border-bottom: 2px solid #0000ff;*/
-    ine-height: 1.5em;
+    line-height: 1.5em;
+    display: block;
     padding-bottom: 7px;
 }
 
