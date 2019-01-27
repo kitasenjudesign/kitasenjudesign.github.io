@@ -17,9 +17,10 @@ title: 2018
 ミュージックビデオのフォーマットに自撮りを取りこんだ、インタラクティブなミュージックビデオ。
 以前から作っていた顔変形エフェクトの集大成。
 
+![jido](./img/aa.jpg)
+
 ![jido](https://kitasenjudesign.github.io/img/jidorhythm3.gif)
 
-![jido](./img/aa.jpg)
 
 ## Brain Drool 2018
 
