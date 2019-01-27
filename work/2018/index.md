@@ -63,7 +63,7 @@ title: 2018
 * Role / 実装(Unity)
 * URL / --
 
-Mr.Children2018ツアーのMONSTERという楽曲の演出用のライブエフェクトを制作しアプリとして提供。グリッチ的エフェクトをこねくりまわした。
+Mr.Children2018ツアーのMONSTERという楽曲のライブエフェクトを制作しアプリとして提供。グリッチ的エフェクトをこねくりまわした。
 
 ![children](./img/MrChildren.png)
 
