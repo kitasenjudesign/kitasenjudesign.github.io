@@ -19,6 +19,7 @@ title: 2018
 
 ![jido](https://kitasenjudesign.github.io/img/jidorhythm3.gif)
 
+![jido](./img/aa.jpg)
 
 ## Brain Drool 2018
 
