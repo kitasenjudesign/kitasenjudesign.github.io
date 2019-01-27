@@ -15,6 +15,12 @@ body{
     color: #00f;
 }
 
+a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
 p{
   text-align: justify;
   margin: 0;
@@ -26,6 +32,7 @@ ul{
   color: #888888;
   padding-left: 0;
   margin-left: 0;
+  text-align: center;
 }
 
 h1{
@@ -39,7 +46,7 @@ h1{
 h2{
     color: #0000ff;
     font-size: 1.5em;
-    border-bottom: 2px solid #0000ff;
+    /*border-bottom: 2px solid #0000ff;*/
     ine-height: 1.5em;
     padding-bottom: 7px;
 }
