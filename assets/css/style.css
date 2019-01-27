@@ -26,6 +26,7 @@ ul{
   color: #888888;
   padding-left: 0;
   margin-left: 0;
+  overflow: hidden;
 }
 
 h1{
