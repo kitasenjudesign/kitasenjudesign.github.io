@@ -56,7 +56,7 @@ title: 2018
 
 ![children](./img/signage.png)
 
-## Mr.Children Tour 2018 MONSTER Live Effect
+## Mr.Children Tour Live Effect
 
 * Format / Desktop App
 * Client / ENGINE
@@ -66,6 +66,7 @@ title: 2018
 Mr.Children2018ツアーのMONSTERという楽曲のライブエフェクトを制作しアプリとして提供。グリッチ的エフェクトをこねくりまわした。
 
 ![children](./img/MrChildren.png)
+![children](./img/mc2.png)
 
 ## MuDA
 
