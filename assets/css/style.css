@@ -11,8 +11,8 @@ body{
 }
 
 ::selection {
-    background: #ff0;
-    color: #00f;
+    background: #00f;
+    color: #ff0;
 }
 
 p{
