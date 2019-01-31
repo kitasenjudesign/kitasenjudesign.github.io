@@ -7,4 +7,5 @@ http://kitasenjudesign.com/
 
 ## photo
 
-
+![aa](./icon1.jpg)
+![bb](./icon2.jpg)
