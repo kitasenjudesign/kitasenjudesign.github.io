@@ -11,5 +11,6 @@ title: index
 
 ## [2019](./2019/)
 
+* [profile](https://kitasenjudesign.github.io/profile/)
 * [source code](https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/work)
 * [kitasenjudesign.com](https://kitasenjudesign.com)
