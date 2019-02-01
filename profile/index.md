@@ -11,7 +11,7 @@ http://kitasenjudesign.com/
 
 ## text ver2
 
-******
+考え中。
 
 ## photo
 
