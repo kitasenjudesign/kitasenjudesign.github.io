@@ -78,6 +78,7 @@ Mr.Children2018ツアーのMONSTERという楽曲のライブエフェクトを�
 スイス・チューリッヒにあるデジタルアートミュージアムのウェブサイト用のカバーページの演出。フィードバックエフェクトの習作。暇な時間を見つけては、いじっていた習作がこんな形で日の目にあたりうれしい。そのうちちゃんと公開。
 
 ![MuDA](https://kitasenjudesign.github.io/img/muda01.png)
+![MuDA](https://kitasenjudesign.github.io/img/muda02.png)
 
 ## Magic Illumination
 
