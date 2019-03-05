@@ -6,7 +6,7 @@
 
 ## text ver1
 
-北千住に棲む自称クリエーティブコーダー。Web、アプリ、VJなど、インタラクティブメディア上で、コードを用いた視覚表現の研究・開発をしている。21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展に作品を出展するなど、いろいろ活動中。
+北千住に棲むプログラマー／アーティスト。Web、アプリ、VJなど、インタラクティブメディア上で、コードを用いて視覚表現の研究・開発をしている。21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展に作品を出展するなど、いろいろ活動中。
 http://kitasenjudesign.com/
 
 ## text ver2
@@ -17,3 +17,22 @@ http://kitasenjudesign.com/
 
 ![aa](./icon1.jpg)
 ![bb](./icon2.jpg)
+
+## 登壇
+
+* 2015.12 [DemoDay.Tokyo](https://www.youtube.com/watch?v=eyGrbDR5uqk)
+* 2016.10 DevFest Tokyo
+* 2018.08 [AUDIO ARCHITECTURE展リレートーク](http://www.2121designsight.jp/program/audio_architecture/events.html)
+* 2018.10 Unity x ARKit 入門Meetup
+* 2019.02 [Polygon Lounge](https://github.com/PolygonLounge/PolygonLounge-1)
+
+## メディア
+* 雑誌 / [MDN 2016年3月号 人と人 「渡邊敬之 × 橋本麦」](https://books.mdn.co.jp/magazine/3215101003/)
+* Web / [SENSORS](http://www.sensors.jp/post/demoday_3.html)
+* Web / [HILLS LIFE](https://hillslife.jp/culture/2018/07/11/creative-process-4/)
+* 雑誌 / ブレーン 今月のブックマーク寄稿
+* ラジオ / [TOKYO SOUNDS GOOD ゲスト出演](https://twitter.com/TokyoSoundsGood/status/1101368964020486146)
+
+## 展示
+* 2018 21_21 DESIGN SIGHT / AUDIO ARCHITECTURE
+* 2019 SONY PARK / AAAR vol1
