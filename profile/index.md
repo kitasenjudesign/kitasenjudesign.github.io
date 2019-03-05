@@ -27,12 +27,14 @@ http://kitasenjudesign.com/
 * 2019.02 [Polygon Lounge](https://github.com/PolygonLounge/PolygonLounge-1)
 
 ## メディア
-* 雑誌 / [MDN 2016年3月号 人と人 「渡邊敬之 × 橋本麦」](https://books.mdn.co.jp/magazine/3215101003/)
-* Web / [SENSORS](http://www.sensors.jp/post/demoday_3.html)
-* Web / [HILLS LIFE](https://hillslife.jp/culture/2018/07/11/creative-process-4/)
-* 雑誌 / ブレーン 今月のブックマーク寄稿
-* ラジオ / [TOKYO SOUNDS GOOD ゲスト出演](https://twitter.com/TokyoSoundsGood/status/1101368964020486146)
+
+* 2016.03 雑誌 / [MDN 2016年3月号 人と人 「渡邊敬之 × 橋本麦」](https://books.mdn.co.jp/magazine/3215101003/)
+* 2016.03 Web / [SENSORS](http://www.sensors.jp/post/demoday_3.html)
+* 2018.08 Web / [HILLS LIFE](https://hillslife.jp/culture/2018/07/11/creative-process-4/)
+* 2018.10 雑誌 / [ブレーン2018年10月号 今月のブックマーク寄稿](https://mag.sendenkaigi.com/brain/201810/bookmark/014298.php)
+* 2019.02 ラジオ / [TOKYO SOUNDS GOOD ゲスト出演](https://twitter.com/TokyoSoundsGood/status/1101368964020486146)
 
 ## 展示
-* 2018 21_21 DESIGN SIGHT / AUDIO ARCHITECTURE
-* 2019 SONY PARK / AAAR vol1
+
+* 2018.07 21_21 DESIGN SIGHT / AUDIO ARCHITECTURE
+* 2019.01 SONY PARK / AAAR vol1
