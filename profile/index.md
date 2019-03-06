@@ -37,4 +37,4 @@ http://kitasenjudesign.com/
 ## 展示
 
 * 2018.07 [21_21 DESIGN SIGHT / AUDIO ARCHITECTURE](http://2121designsight.jp/program/audio_architecture/)
-* 2019.01 SONY PARK / AAAR vol1
+* 2019.01 [SONY PARK / AAAR vol1](http://artscape.jp/exhibition/art-flash-news/2018/10151501_21045.html)
