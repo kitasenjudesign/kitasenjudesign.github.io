@@ -14,12 +14,13 @@
 ![magic](./img/solitaire.jpg)
 
 
-## coming soon
+## PORTAL BY OPENING CEREMONY
 
-* Format / Smartphone App (AR)
+* Format / Smartphone App
 * Client / ---
 * Role / 実装(Unity)
 * URL / --
 
+代官山にオープンしたKASHIYAMA DAIKANYAMAで体験できるARファッションショーの実装。
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
