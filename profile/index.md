@@ -21,10 +21,10 @@ http://kitasenjudesign.com/
 ## 登壇
 
 * 2015.12 [DemoDay.Tokyo](https://www.youtube.com/watch?v=eyGrbDR5uqk)
-* 2016.10 DevFest Tokyo
+* 2016.10 DevFest2016 Tokyo / [資料](https://docs.google.com/presentation/d/1i9YYhNgjh1SH-xka3gpsCUG0zLz9njjzMuga3j6pobk/edit?usp=sharing)
 * 2018.08 [AUDIO ARCHITECTURE展リレートーク](http://www.2121designsight.jp/program/audio_architecture/events.html)
 * 2018.10 Unity x ARKit 入門Meetup
-* 2019.02 [Polygon Lounge](https://github.com/PolygonLounge/PolygonLounge-1)
+* 2019.02 [Polygon Lounge](https://github.com/PolygonLounge/PolygonLounge-1) / [資料](https://docs.google.com/presentation/d/1xxjXO9ay7tFBnDNa328HZXM5P5ifmdppKDBCVKLYSt8/edit?usp=sharing)
 
 ## メディア
 
