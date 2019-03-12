@@ -39,7 +39,7 @@ title: 2018
 * Format / Desktop App
 * Client / Handy
 * Role / 実装(Unity)
-* URL / --
+* URL / https://www.bascule.co.jp/work/handy2018/
 
 神田明神で行われた盆踊りの際に、巨大な円筒状の提灯風のLEDディスプレイを用意し、動的にユーザの名前を表示できるシステムを制作。あとVJ的な仕組みも。
 
