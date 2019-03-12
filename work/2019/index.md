@@ -21,6 +21,6 @@
 * Role / 実装(Unity)
 * URL / --
 
-代官山にオープンしたKASHIYAMA DAIKANYAMAで体験できるARファッションショーの実装。
+代官山にオープンしたKASHIYAMA DAIKANYAMAで体験できるARファッションショーの実装。UI以外の演出を担当。3Dスキャンされたモデルが100体登場
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
