@@ -3,6 +3,14 @@
 	"list":[
 		{
 				"date":"2018",
+				"tags":["CLIENT WORK"],
+				"title": "CLIENT WORK",
+				"url": "https://kitasenjudesign.github.io/work/"
+		},			
+		
+		
+		{
+				"date":"2018",
 				"tags":["WEBGL"],
 				"title": "FAKE HEIGHT MAP",
 				"url": "http://kitasenjudesign.com/sketch/11/"
