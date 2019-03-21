@@ -3,14 +3,14 @@
 	"list":[
 		{
 				"date":"2018.01.25",
-				"tags":["2018",""],
+				"tags":["2018","SKETCH"],
 				"title": "FAKE HEIGHT MAP",
 				"url": "http://kitasenjudesign.com/sketch/11/"
 		},			
 		
 		{
 				"date":"2018.01.25",
-				"tags":["2018",""],
+				"tags":["2018","APP",""],
 				"title": "AR SCULPTURE",
 				"url": "https://vimeo.com/298317892"
 		},		
@@ -36,13 +36,13 @@
 		},
 		{
 				"date":"2018.01.25",
-				"tags":["2018",""],
+				"tags":["2018","APP","AR"],
 				"title": "JIDO-RHYTHM",
 				"url": "https://kitasenjudesign.com/jido-rhythm/"
 		},
 		{
 				"date":"2018.01.25",
-				"tags":["2018",""],
+				"tags":["2018","SKETCH"],
 				"title": "PROJECTION 3 - LENNA",
 				"url": "https://kitasenjudesign.com/sketch/08/"
 		},			
@@ -132,7 +132,7 @@
     },
     {
       "date":"2016.01.21",
-      "tags":["2016","WebGL","camera"],
+      "tags":["2016","WebGL","WEBCAM"],
         "title": "FACE TRACKING ANIMATION",
         "url": "https://kitasenjudesign.com/work/78/"
     },
@@ -453,9 +453,7 @@
     {
         "date": "2014.05.05",
         "tags": [
-            "2012",
-            "FLASH",
-			"CLOCK"
+            "2012","FLASH","CLOCK"
         ],
         "title": "Moment Clock 3D",
         "url": "https://kitasenjudesign.com/work/15/"
