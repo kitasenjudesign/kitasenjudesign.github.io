@@ -194,26 +194,26 @@
 
     {
     	"date":"2015",
-	"tags":["2015","CANVAS"],
+	"tags":["CANVAS"],
         "title": "THE QUICK BROWN FOX JUMPS 3",
         "url": "https://kitasenjudesign.com/sketch/14/"
     },		
     {
       "date":"2015",
-      "tags":["2015","CANVAS"],
+      "tags":["CANVAS"],
       "title": "THE QUICK BROWN FOX JUMPS 2",
       "url": "https://kitasenjudesign.com/work/68/"
     },
     {
       "date":"2014",
-      "tags":["2014","CANVAS"],
+      "tags":["CANVAS"],
       "title": "THE QUICK BROWN FOX JUMPS 1",
       "url": "https://kitasenjudesign.com/work/41/"
     },
 
     {
       "date":"2014",
-      "tags":["2014","WebGL"],
+      "tags":["WebGL"],
       "title": "BAPA Flag",
       "url": "https://kitasenjudesign.com/work/38/"
     },
@@ -232,14 +232,14 @@
 
     {
       "date":"2015",
-      "tags":["2015","CANVAS"],
+      "tags":["CANVAS"],
         "title": "Convergence",
         "url": "https://kitasenjudesign.com/work/54/"
     },
 
     {
 	"date":"2015",
-	"tags":["2015","WebGL","MusicVideo"],
+	"tags":["WebGL","MusicVideo"],
         "title": "HANA MUSIC VIDEO",
         "url": "https://kitasenjudesign.com/work/58/"
     },
@@ -276,7 +276,6 @@
     {
         "date": "2014",
         "tags": [
-            "2014",
             "WEBGL"
         ],
         "title": "HEAD DANCE 1",
@@ -292,7 +291,7 @@
 
     {
       "date":"2014",
-      "tags":["2014","CANVAS"],
+      "tags":["CANVAS"],
         "title": "Motion Maker",
         "url": "https://kitasenjudesign.com/dmm/01/"
     },
@@ -338,7 +337,6 @@
     {
         "date": "2012",
         "tags": [
-            "2012",
             "FLASH"
         ],
         "title": "Bane Grid",
@@ -347,7 +345,6 @@
     {
         "date": "2013",
         "tags": [
-            "2013",
             "CANVAS"
         ],
         "title": "RANDAM COLLAGER",
@@ -356,7 +353,7 @@
     {
         "date": "2011",
         "tags": [
-            "2011","FLASH","MUSICVIDEO"
+            "FLASH","MUSICVIDEO"
         ],
         "title": "Perfume locus1",
         "url": "https://kitasenjudesign.com/perfume/"
