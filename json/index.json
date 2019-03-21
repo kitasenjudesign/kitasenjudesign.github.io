@@ -349,7 +349,6 @@
         "date": "2014.05.05",
         "tags": [
             "2013",
-            "BOOK",
             "CANVAS"
         ],
         "title": "RANDAM COLLAGER",
@@ -358,9 +357,7 @@
     {
         "date": "2014.05.05",
         "tags": [
-            "2011",
-            "FLASH",
-			"MUSICVIDEO"
+            "2011","FLASH","MUSICVIDEO"
         ],
         "title": "Perfume locus1",
         "url": "https://kitasenjudesign.com/perfume/"
@@ -378,9 +375,7 @@
     {
         "date": "2014.05.05",
         "tags": [
-            "2011",
-            "FLASH",
-			"MUSICVIDEO"
+            "2011","FLASH","MUSICVIDEO"
         ],
         "title": "Perfume motion vector",
         "url": "https://kitasenjudesign.com/perfume/3/"
@@ -470,8 +465,7 @@
     {
         "date": "2014.05.05",
         "tags": [
-            "2013",
-            "IMAGE"
+            "2013"
         ],
         "title": "MOSAIC",
         "url": "https://kitasenjudesign.com/work/21/"
