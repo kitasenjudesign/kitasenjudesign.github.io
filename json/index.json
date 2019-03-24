@@ -4,8 +4,20 @@
 		{
 				"date":"2019",
 				"tags":["WEBGL"],
+				"title": "VERLET NET 3",
+				"url": "http://kitasenjudesign.com/sketch/18/"
+		},			
+		{
+				"date":"2019",
+				"tags":["WEBGL"],
 				"title": "VERLET NET 2",
 				"url": "http://kitasenjudesign.com/sketch/17/"
+		},		
+		{
+			"date":"2017.08.25",
+			"tags":["WEBGL"],
+			"title": "VERLET NET 1",
+			"url": "https://kitasenjudesign.com/work/96/"
 		},		
 		
 		{
@@ -95,12 +107,7 @@
 			"url": "https://kitasenjudesign.com/sketch/03"
 		},
 
-		{
-			"date":"2017.08.25",
-			"tags":["WEBGL"],
-			"title": "VERLET NET",
-			"url": "https://kitasenjudesign.com/work/96/"
-		},
+
     {
       "date":"2017.08.25",
       "tags":["WEBGL"],
