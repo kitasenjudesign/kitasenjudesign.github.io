@@ -33,6 +33,7 @@ http://kitasenjudesign.com/
 * 2018.08 Web / [HILLS LIFE](https://hillslife.jp/culture/2018/07/11/creative-process-4/)
 * 2018.10 雑誌 / [ブレーン2018年10月号 今月のブックマーク寄稿](https://mag.sendenkaigi.com/brain/201810/bookmark/014298.php)
 * 2019.02 ラジオ / [TOKYO SOUNDS GOOD ゲスト出演](https://twitter.com/TokyoSoundsGood/status/1101368964020486146)
+* 2019.04 Web / [映像作家100選出](https://eizo100.jp/archives/category/2019/)
 
 ## 展示
 
