@@ -85,9 +85,19 @@ h4{
   height: 100%;
 }
 
-.description {
+.tags{
   text-align: center;
+  padding: 10px 0 50px 0;
+}
+
+.description {
+  text-align: left;
   padding: 10px;
+}
+
+.footer {
+  text-align: center;
+  padding: 50px 0 50px 0;  
 }
 
 
