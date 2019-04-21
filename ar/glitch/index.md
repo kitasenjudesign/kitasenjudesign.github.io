@@ -5,7 +5,7 @@ title: ar_glitch
 
 # AR_Glitch
 
-<div>iOS app</div>
+<div class="description">#2018 #iOSapp #Unity</div>
 
 Development of three-dimensional glitch effect that appears in space using SLAM.
 
