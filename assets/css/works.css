@@ -85,6 +85,13 @@ h4{
   height: 100%;
 }
 
+.videoB {
+  position: relative;
+  height: 0;
+  padding: 0 0 46.14%;
+  overflow: hidden;
+}
+
 .tags{
   text-align: center;
   padding: 10px 0 50px 0;
