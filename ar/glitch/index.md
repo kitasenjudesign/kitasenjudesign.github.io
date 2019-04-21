@@ -5,7 +5,7 @@ title: ar_glitch
 
 # AR_Glitch
 
-<div class="tag">#2018 #iOS #Unity</div>
+<div class="tags">#2018 #iOS #Unity</div>
 
 <div class="description">Development of three-dimensional glitch effect that appears in space using SLAM.</div>
 
@@ -24,4 +24,4 @@ title: ar_glitch
 
 <div class="footer">
   &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
-</footer>
+</div>
