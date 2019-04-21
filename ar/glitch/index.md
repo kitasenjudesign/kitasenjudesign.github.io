@@ -5,9 +5,12 @@ title: ar_glitch
 
 # AR_Glitch
 
-<div class="description">#2018 #iOSapp #Unity</div>
+<div class="tag">#2018 #iOS #Unity</div>
 
-Development of three-dimensional glitch effect that appears in space using SLAM.
+<div class="description">Development of three-dimensional glitch effect that appears in space using SLAM.</div>
+
+
+
 
 ![01](./glitch01.png)
 ![02](./glitch02.png)
@@ -19,6 +22,6 @@ Development of three-dimensional glitch effect that appears in space using SLAM.
 <iframe src="//player.vimeo.com/video/330333903" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-<footer>
-[kitasenjudesign.com](https://kitasenjudesign.com)
+<div class="footer">
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
 </footer>
