@@ -1,0 +1,72 @@
+html{
+  width: 100%;
+}
+
+body{
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-family:  "Roboto", Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-feature-settings : "palt" 1;
+}
+
+::selection {
+    background: #ff0;
+    color: #00f;
+}
+
+a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
+p{
+  text-align: justify;
+  margin: 0;
+  padding: 10px 0;
+}
+
+ul{
+  list-style: none;
+  color: #888888;
+  padding-left: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-top: 70px;
+}
+
+h1{
+  color: #0000ff;
+  font-size: 1.5em;
+  padding: 50px;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+h2{
+    color: #0000ff;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    display: block;
+    padding-bottom: 7px;
+}
+
+img{
+  width: 100%; 
+}
+
+.markdown-body{
+  width: 90%;
+  max-width: 700px;
+  margin: 0px auto;
+  padding: 10px 10px;
+  background-color: #ffffff;
+  line-height: 1.5em;
+}
+
+h4{
+  color: #0000ff;
+  text-align: center;
+  font-size: normal;
+}
