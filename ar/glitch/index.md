@@ -1,3 +1,8 @@
+---
+layout: works
+title: ar_glitch
+---
+
 # AR_Glitch
 
 Development of three-dimensional glitch effect that appears in space using SLAM.
