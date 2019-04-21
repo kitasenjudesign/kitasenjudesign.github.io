@@ -1,3 +1,16 @@
-# AAAR Exhibition "AR Instancing"
+---
+layout: works
+title: ar_glitch
+---
 
-AAAR展に出展したAR作品と、そのための習作群
+# AR Instancing
+
+<div class="tags">#2018 #iOS #Unity</div>
+
+<div class="description">AAAR展のためにつくった作品群</div>
+
+![01](./glitch01.png)
+
+<div class="footer">
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+</div>
