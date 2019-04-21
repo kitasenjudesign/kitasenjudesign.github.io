@@ -13,6 +13,11 @@ title: ar_glitch
 ![01](./1000yenA.jpg)
 ![01](./1000yenB.jpg)
 ![01](./1000yenC.jpg)
+
+<div class="videoB">
+<iframe src="//player.vimeo.com/video/311863973" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
 <div class="footer">
   &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
 </div>
