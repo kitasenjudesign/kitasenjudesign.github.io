@@ -9,9 +9,6 @@ title: ar_glitch
 
 <div class="description">Development of three-dimensional glitch effect that appears in space using SLAM.</div>
 
-
-
-
 ![01](./glitch01.png)
 ![02](./glitch02.png)
 ![03](./glitch03.png)
