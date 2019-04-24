@@ -18,7 +18,7 @@
 
 * Format / Smartphone App
 * Client / ---
-* Role / 実装(Unity)
+* Role / 演出、実装(Unity)
 * URL / --
 
 ARファッションショー。3Dスキャンされたモデルが100体登場。主に演出部分のプロトタイプ制作と実装を担当。
@@ -28,6 +28,13 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 ![portal](./img/portal03.jpg)
 ![portal](./img/portal04.jpg)
 ![portal](./img/portal05.jpg)
+
+## 078 AR City
+
+* Format / Smartphone App
+* Client / ---
+* Role / 実装(Unity)
+* URL / --
 
 
 
