@@ -14,14 +14,14 @@
 ![solitaire](./img/solitaire.jpg)
 
 
-## PORTAL BY OPENING CEREMONY
+## PORTAL
 
 * Format / Smartphone App
 * Client / ---
 * Role / 実装(Unity)
 * URL / --
 
-ARファッションショー。3Dスキャンされたモデルが100体登場。主に演出部分のプロトタイプ制作と実装。
+ARファッションショー。3Dスキャンされたモデルが100体登場。主に演出部分のプロトタイプ制作と実装を担当。
 
 ![portal](./img/portal01.jpg)
 ![portal](./img/portal02.jpg)
