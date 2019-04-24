@@ -7,7 +7,8 @@ title: ar_glitch
 
 <div class="tags">#2018 #iOS #Unity</div>
 
-<div class="description">instancing</div>
+<div class="description">プログラミングでクラス（設計図的なもの）から実体化させたものをインスタンスと呼びますが、現実世界でそのインスタンスが起きまくったときの楽しさや狂気をARで仮想敵に体験できる作品です。
+</div>
 
 ![01](./aaar01.jpg)
 ![01](./1000yenA.jpg)
