@@ -3,6 +3,12 @@
 	"list":[
 		{
 				"date":"2019",
+				"tags":["AR"],
+				"title": "AR Instancing",
+				"url": "https://kitasenjudesign.github.io/ar/instancing/"
+		},		
+		{
+				"date":"2019",
 				"tags":["WEBGL"],
 				"title": "VERLET NET 3",
 				"url": "http://kitasenjudesign.com/sketch/18/"
