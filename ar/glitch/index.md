@@ -7,7 +7,9 @@ title: ar_glitch
 
 <div class="tags">#2018 #iOS #Unity</div>
 
-<div class="description">Development of three-dimensional glitch effect that appears in space using SLAM.</div>
+<div class="description">
+  現実空間上に現れる３次元的なグリッチエフェクトの開発。<br/>
+  Development of three-dimensional glitch effect that appears in space space.</div>
 
 ![01](./glitch01.png)
 ![02](./glitch02.png)
