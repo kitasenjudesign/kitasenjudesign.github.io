@@ -9,7 +9,7 @@ title: ar_glitch
 
 <div class="description">
   現実空間上に現れる３次元的なグリッチエフェクトの開発。<br/>
-  Development of three-dimensional glitch effect that appears in space space.</div>
+  Development of three-dimensional glitch effect that appears in real space.</div>
 
 ![01](./glitch01.png)
 ![02](./glitch02.png)
