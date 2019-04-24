@@ -42,6 +42,7 @@ h1{
   padding: 100px 0 0 0;
   text-align: center;
   line-height: 1.5em;
+  margin-top: 50px;
 }
 
 h2{
@@ -50,7 +51,7 @@ h2{
     line-height: 1.5em;
     display: block;
     padding-bottom: 7px;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 img{
