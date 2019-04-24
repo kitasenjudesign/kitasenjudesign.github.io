@@ -23,9 +23,9 @@
 
 ARファッションショー。3Dスキャンされたモデルが100体登場
 
-![portal](./portal01.jpg)
-![portal](./portal02.jpg)
-![portal](./portal03.jpg)
+![portal](./img/portal01.jpg)
+![portal](./img/portal02.jpg)
+![portal](./img/portal03.jpg)
 
 
 
