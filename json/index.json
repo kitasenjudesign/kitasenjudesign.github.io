@@ -3,12 +3,6 @@
 	"list":[
 		{
 				"date":"2019",
-				"tags":["AR"],
-				"title": "AR Instancing",
-				"url": "https://kitasenjudesign.github.io/ar/instancing/"
-		},		
-		{
-				"date":"2019",
 				"tags":["WEBGL"],
 				"title": "VERLET NET 3",
 				"url": "http://kitasenjudesign.com/sketch/18/"
@@ -33,12 +27,7 @@
 				"url": "https://github.com/kitasenjudesign/UnitySlitScan"
 		},
 		
-		{
-				"date":"2018",
-				"tags":["CLIENT WORK"],
-				"title": "CLIENT WORK LIST",
-				"url": "https://kitasenjudesign.github.io/work/"
-		},			
+			
 		
 		
 		{
@@ -48,12 +37,7 @@
 				"url": "http://kitasenjudesign.com/sketch/11/"
 		},			
 		
-		{
-				"date":"2018",
-				"tags":["AR","VIDEO"],
-				"title": "AR Glitch",
-				"url": "https://kitasenjudesign.github.io/ar/glitch/"
-		},		
+	
 		{
 				"date":"2017.01.25",
 				"tags":["WEBGL"],
@@ -117,7 +101,7 @@
     {
       "date":"2017.08.25",
       "tags":["WEBGL"],
-      "title": "RIPPLE",
+      "title": "COLOR RIPPLE",
       "url": "https://kitasenjudesign.com/sketch/06/"
     },
 
