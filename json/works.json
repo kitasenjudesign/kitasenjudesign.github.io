@@ -1,13 +1,14 @@
 {
 
 	"list":[
-		{
-				"date":"2018",
-				"tags":["CLIENT WORK"],
-				"title": "CLIENT WORK LIST",
-				"url": "https://kitasenjudesign.github.io/work/"
-		},
 
+        	{
+				"date":"2018",
+				"tags":["AR"],
+				"title": "AR Glitch",
+				"url": "https://kitasenjudesign.github.io/ar/instancing/"
+		},	
+		
         	{
 				"date":"2018",
 				"tags":["AR","VIDEO"],
@@ -20,7 +21,14 @@
 				"tags":["AR"],
 				"title": "JIDO-RHYTHM",
 				"url": "https://kitasenjudesign.com/jido-rhythm/"
-		}
+		},
+		
+		{
+				"date":"2018",
+				"tags":["CLIENT WORK"],
+				"title": "CLIENT WORK LIST",
+				"url": "https://kitasenjudesign.github.io/work/"
+		}		
   	]
   
 }
