@@ -2,17 +2,25 @@
 
 	"list":[
 		{
-				"date":"2019",
-				"tags":["AR"],
-				"title": "AR Instancing",
-				"url": "https://kitasenjudesign.github.io/ar/instancing/"
+				"date":"2018",
+				"tags":["CLIENT WORK"],
+				"title": "CLIENT WORK LIST",
+				"url": "https://kitasenjudesign.github.io/work/"
 		},
-		{
-				"date":"2019",
+
+        	{
+				"date":"2018",
+				"tags":["AR","VIDEO"],
+				"title": "AR Glitch",
+				"url": "https://kitasenjudesign.github.io/ar/glitch/"
+		},	
+
+        	{
+				"date":"2018",
 				"tags":["AR"],
-				"title": "AR Instancing",
-				"url": "https://kitasenjudesign.github.io/ar/instancing/"
-		}    
-  ]
+				"title": "JIDO-RHYTHM",
+				"url": "https://kitasenjudesign.com/jido-rhythm/"
+		},
+  	]
   
 }
