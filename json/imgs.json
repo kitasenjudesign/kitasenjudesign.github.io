@@ -2,6 +2,12 @@
 	"imgs":[
 		
 	{
+		"tags":["2019","WEBGL"],
+		"img":"https://kitasenjudesign.github.io/img/verlet.gif",
+		"url":"http://kitasenjudesign.com/sketch/18/",
+		"title":"VERLET NET"
+	},			
+	{
 		"tags":["2019","UNITY"],
 		"img":"https://kitasenjudesign.github.io/ar/instancing/aaar01.jpg",
 		"url":"https://kitasenjudesign.github.io/ar/instancing/",
