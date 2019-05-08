@@ -21,7 +21,7 @@
 * Role / 演出、実装(Unity)
 * URL / --
 
-ARファッションショー。3Dスキャンされたモデルが100体登場。主に演出部分のプロトタイプ制作と実装を担当。
+ARファッションショー。3Dスキャンされたモデルが100体登場。主に、演出部分のプロトタイプ制作と実装を担当。
 
 ![portal](./img/portal01.jpg)
 ![portal](./img/portal02.jpg)
@@ -36,7 +36,7 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 * Role / 実装(Unity)
 * URL / --
 
-
+オープニング・エンディングの実装を担当。
 
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
