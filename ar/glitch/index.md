@@ -21,6 +21,14 @@ title: ar_glitch
 <iframe src="//player.vimeo.com/video/330333903" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
+<div class="video2">
+<iframe src="//player.vimeo.com/video/334948997" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+
+
+
+
 <div class="footer">
   &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
 </div>
