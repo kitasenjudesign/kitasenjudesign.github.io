@@ -20,8 +20,8 @@ title: muda
 ![01](./16.png)
 
 
-<div class="videoB">
-<iframe src="//player.vimeo.com/video/311863973" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="video">
+<iframe src="//player.vimeo.com/video/309805455" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 <div class="footer">
