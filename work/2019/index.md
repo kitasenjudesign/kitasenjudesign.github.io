@@ -19,7 +19,7 @@
 * Format / Smartphone App
 * Client / ---
 * Role / 演出、実装(Unity)
-* URL / --
+* URL / [https://youtu.be/WpawuZ0PmwA](https://www.youtube.com/watch?v=WpawuZ0PmwA)
 
 ARファッションショー。3Dスキャンされたモデルが100体登場。主に、演出部分のプロトタイプ制作と実装を担当。
 
@@ -37,6 +37,14 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 * URL / --
 
 オープニング・エンディングの実装を担当。
+
+## Asics 
+
+* Format / Desktop App 
+* Client / ---
+* Role / 実装(Unity)
+* URL / --
+
 
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
