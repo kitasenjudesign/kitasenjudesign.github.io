@@ -21,7 +21,7 @@
 * Role / 演出、実装(Unity)
 * URL / [https://youtu.be/WpawuZ0PmwA](https://www.youtube.com/watch?v=WpawuZ0PmwA)
 
-ARファッションショー。3Dスキャンされたモデルが100体登場。主に、演出部分のプロトタイプ制作と実装を担当。
+ARファッションショー。3Dスキャンされたモデルが100体登場。演出部分の実装を担当。
 
 ![portal](./img/portal01.jpg)
 ![portal](./img/portal02.jpg)
@@ -32,11 +32,14 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 ## 078 AR City
 
 * Format / Smartphone App
-* Client / ---
+* Client / MESON
 * Role / 実装(Unity)
-* URL / --
+* URL / https://078kobe.jp/events/8817/
 
 オープニング・エンディングの実装を担当。
+
+![078](./img/078.jpg)
+
 
 ## Asics 
 
@@ -45,6 +48,13 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 * Role / 実装(Unity)
 * URL / --
 
+
+## kao.dance
+
+* Format / Desktop App 
+* Client / ---
+* Role / 実装(Unity)
+* URL / --
 
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
