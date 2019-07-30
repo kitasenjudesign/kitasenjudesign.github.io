@@ -7,7 +7,11 @@ title: muda
 
 <div class="tags">#2019 #WebGL</div>
 
-<div class="description"></div>
+<div class="description">
+  スイスチューリッヒにあるデジタルアートミュージアムMuDAに提供した動くロゴ。<br/>
+  A motion logo provided to Digital Art Museum MuDA in Switzerland Zurich.
+  
+</div>
 
 ![01](./100.png)
 ![01](./101.png)
