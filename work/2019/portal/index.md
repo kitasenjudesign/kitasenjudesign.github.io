@@ -17,7 +17,7 @@ title: Portal
 ![portal](../img/portal04.jpg)
 ![portal](../img/portal05.jpg)
 
-<div class="video">
+<div class="video" style="padding: 0 0 70%;">
 <iframe src="//player.vimeo.com/video/351896309" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
