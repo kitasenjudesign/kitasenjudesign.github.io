@@ -3,12 +3,12 @@ layout: works
 title: Portal
 ---
 
-# Porta
+# Portal
 
 <div class="tags">#2019 #AR</div>
 
 <div class="description">
-  ARファッションショー
+  ARファッションショーの演出と実装
 </div>
 
 ![portal](../img/portal01.jpg)
