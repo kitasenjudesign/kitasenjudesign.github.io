@@ -17,4 +17,10 @@ title: Portal
 ![portal](../img/portal04.jpg)
 ![portal](../img/portal05.jpg)
 
+<div class="video">
 <iframe src="//player.vimeo.com/video/351896309" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+<div class="footer">
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+</div>
