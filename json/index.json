@@ -1,6 +1,14 @@
 {
 
 	"list":[
+		
+		{
+				"date":"2017",
+				"tags":["WEBGL","CLOCK"],
+				"title": "RING CLOCK",
+				"url": "https://kitasenjudesign.com/work/57/"
+		},			
+		
 		{
 				"date":"2019",
 				"tags":["WEBGL"],
