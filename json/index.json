@@ -1,7 +1,12 @@
 {
 
 	"list":[
-		
+				{
+				"date":"2019",
+				"tags":["CANVAS"],
+				"title": "MONA PAINT B",
+				"url": "https://kitasenjudesign.com/sketch/20/"
+		},		
 				{
 				"date":"2019",
 				"tags":["WEBGL"],
