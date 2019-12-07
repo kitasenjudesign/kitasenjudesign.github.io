@@ -2,16 +2,13 @@
 
 ## text ver0
 
-北千住デザインは、オンスクリーンにおける視覚表現の研究・開発を行っています。 主にプログラミングとリアルタイムレンダリング系のツールを用い、アルゴリズミックな表現はもちろんのこと、邪道的な道具の使い方や アイデアの組み合わせ（≒クソコラ）を用いて、 商業デザインの中では、こぼれ落ちてしまうような（しかし、魅力的な）視覚表現を 実験的に制作しています。そのアウトプット先として現在、 ウェブサイト・スマートフォンアプリ・VJ・ミュージックビデオ・モーションロゴ等の実績があります。
+北千住デザインは、オンスクリーンにおける視覚表現の研究・開発を行っています。 主にプログラミングとリアルタイムレンダリング系のツールを用い、アルゴリズミックな表現はもちろんのこと、邪道的な道具の使い方や アイデアの組み合わせ（≒クソコラorヘタウマ）を用いて、 商業デザインの中では、こぼれ落ちてしまうような（しかし、魅力的な）視覚表現を 実験的に制作しています。そのアウトプット先として現在、 ウェブサイト・スマートフォンアプリ・VJ・ミュージックビデオ・モーションロゴ等の実績があります。
 
 ## text ver1
 
 北千住に棲むプログラマー／アーティスト。Web、アプリ、VJなど、インタラクティブメディア上で、コードを用いて視覚表現の研究・開発をしている。21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展に作品を出展するなど、いろいろ活動中。
 http://kitasenjudesign.com/
 
-## text ver2
-
-考え中。
 
 ## photo
 
@@ -25,6 +22,9 @@ http://kitasenjudesign.com/
 * 2018.08 [AUDIO ARCHITECTURE展リレートーク](http://www.2121designsight.jp/program/audio_architecture/events.html)
 * 2018.10 Unity x ARKit 入門Meetup
 * 2019.02 [Polygon Lounge](https://github.com/PolygonLounge/PolygonLounge-1) / [資料](https://docs.google.com/presentation/d/1xxjXO9ay7tFBnDNa328HZXM5P5ifmdppKDBCVKLYSt8/edit?usp=sharing)
+* 2019.05 NEORT MEETUP
+* 2019.12 ARISE #2
+
 
 ## メディア
 
