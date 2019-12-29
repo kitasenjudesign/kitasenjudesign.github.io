@@ -14,7 +14,10 @@ http://kitasenjudesign.com/
 北千住デザインは、オンスクリーンにおける視覚表現の研究・開発を行っています。 主にプログラミングとリアルタイムレンダリング系のツールを用い、アルゴリズミックな表現はもちろんのこと、邪道的な道具の使い方やアイデアの組み合わせ（≒クソコラorヘタウマ）を用いて、
 画一的あるいは技術偏重な表現に陥らない、稀有で新しい表現を作り出すことを目標にしています。
 
-Kitasenju Design is engaged in research and development of on-screen visual expression.We mainly use programming and real-time rendering tools, not only algorithmic expressions, but also eccentric tools and ideas, so that we do not fall into uniform or technology-oriented expressions. The goal is to create rare and new expressions.
+Kitasenju Design is engaged in research and development of on-screen visual expression.
+
+We mainly use programming and real-time rendering tools, not only algorithmic expressions, but also eclectic use of tools and ideas, so that we do not fall into uniform or technology-oriented expressions. The goal is to create rare and new expressions.
+
 
 ## photo
 
