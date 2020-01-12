@@ -1,6 +1,12 @@
 {
 	"imgs":[
 	{
+		"tags":["2017","WEBGL"],
+		"img":"https://kitasenjudesign.github.io/img/ringclock.png",
+		"url":"https://kitasenjudesign.com/work/52/",
+		"title":"RING CLOCK"
+	},			
+	{
 		"tags":["2020","AR"],
 		"img":"https://kitasenjudesign.github.io/img/henya.jpg",
 		"url":"https://vimeo.com/383943567",
