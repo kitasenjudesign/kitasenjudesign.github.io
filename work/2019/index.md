@@ -41,12 +41,15 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 ![078](./img/078.jpg)
 
 
-## Asics 
+## Asics Graphic Generator
 
 * Format / Desktop App 
-* Client / ---
+* Client / Asics
 * Role / 実装(Unity)
 * URL / --
+
+「全部カラダなんだ」というアシックスのタグラインのもと、ポスター・ウェブ・映像に使用するグラフィック生成ツールを作りました。
+スポーツ選手・歌手・ダンサーなど、本人をモーションキャプチャーしたデータの手足をブラシに見立てて
 
 
 ## kao.dance
@@ -55,6 +58,8 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 * Client / ---
 * Role / 実装(Unity)
 * URL / --
+
+神田明神で行われた盆踊りのLEDディスプレイで体験できる映像コンテンツ
 
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
