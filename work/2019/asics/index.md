@@ -14,3 +14,4 @@ title: mocap painting
 ![01](../img/asics01.jpg)
 ![02](../img/asics02.jpg)
 ![03](../img/asics03.jpg)
+![06](../img/asics06.jpg)
