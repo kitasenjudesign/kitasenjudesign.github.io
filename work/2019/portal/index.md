@@ -8,7 +8,8 @@ title: Portal
 <div class="tags">#2019 #AR</div>
 
 <div class="description">
-  ARファッションショーPORTALの演出と実装
+  ARファッションショーPORTALの演出と実装<br/>
+  Virtual fashion show on AR
 </div>
 
 ![portal](../img/portal01.jpg)
