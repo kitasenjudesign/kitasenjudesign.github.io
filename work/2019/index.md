@@ -41,7 +41,7 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 ![078](./img/078.jpg)
 
 
-## Asics Graphic Generator
+## Mocap Painting
 
 * Format / Desktop App 
 * Client / Asics
