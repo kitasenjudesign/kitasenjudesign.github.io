@@ -57,10 +57,10 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 * Format / Desktop App 
 * Client / ---
 * Role / 実装(Unity)
-* URL / --
+* URL / https://bascule.co.jp/work/kaodance/
 
 神田明神で行われた盆踊りで体験できるインタラクティブコンテンツ。顔写真を投稿すると自動で切り抜いてアニメーションします。
 
-
+![kaodance](./img/kaodance.jpg)
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
