@@ -53,7 +53,7 @@ ARファッションショー。3Dスキャンされたモデルが100体登場�
 
 ![a](./img/asics01.jpg)
 ![a](./img/asics02.jpg)
-![a](./img/asics03.jpg)
+![a](./img/asics04.jpg)
 
 ## kao.dance
 
