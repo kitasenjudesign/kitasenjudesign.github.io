@@ -16,3 +16,7 @@ title: mocap painting
 ![02](../img/asics02.jpg)
 ![03](../img/asics03.jpg)
 ![06](../img/asics06.jpg)
+
+<div class="footer">
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+</div>
