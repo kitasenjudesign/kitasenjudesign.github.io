@@ -1,7 +1,15 @@
 {
 
 	"list":[
-				{
+		
+		{
+				"date":"2020",
+				"tags":["CANVAS"],
+				"title": "MOVING RECTS",
+				"url": "https://neort.io/art/boj6fms3p9fd1q8ocmd0"
+		},		
+		
+		{
 				"date":"2019",
 				"tags":["CANVAS"],
 				"title": "MONA PAINT B",
