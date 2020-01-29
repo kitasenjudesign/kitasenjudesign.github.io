@@ -161,7 +161,7 @@
     },
     {
       "date":"2016.10.25",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS"],
         "title": "CLOP CIRCLES",
         "url": "https://kitasenjudesign.com/work/84/"
     },
@@ -199,7 +199,7 @@
 	},
 	{
 	"date":"2015",
-      	"tags":["Canvas","CLOCK"],
+      	"tags":["CREATEJS","CLOCK"],
         "title": "Helvetica Clock 4",
         "url": "https://kitasenjudesign.com/work/55/"
 
@@ -213,7 +213,7 @@
 	},
     {
       	"date":"2015",
-      	"tags":["CANVAS"],
+      	"tags":["CREATEJS"],
         "title": "MONA LISA PAINT",
         "url": "https://kitasenjudesign.com/work/63/"
     },
@@ -233,19 +233,19 @@
 
     {
     	"date":"2015",
-	"tags":["CANVAS"],
+	"tags":["CREATEJS","TYPOGRAPHY"],
         "title": "THE QUICK BROWN FOX JUMPS 3",
         "url": "https://kitasenjudesign.com/sketch/14/"
     },		
     {
       "date":"2015",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
       "title": "THE QUICK BROWN FOX JUMPS 2",
       "url": "https://kitasenjudesign.com/work/68/"
     },
     {
       "date":"2014",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
       "title": "THE QUICK BROWN FOX JUMPS 1",
       "url": "https://kitasenjudesign.com/work/41/"
     },
@@ -271,7 +271,7 @@
 
     {
       "date":"2015",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
         "title": "Convergence",
         "url": "https://kitasenjudesign.com/work/54/"
     },
@@ -330,7 +330,7 @@
 
     {
       "date":"2014",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
         "title": "Motion Maker",
         "url": "https://kitasenjudesign.com/dmm/01/"
     },
@@ -343,7 +343,7 @@
     },
     {
         "date": "2014",
-        "tags": ["CANVAS"],
+        "tags": ["CREATEJS"],
         "title": "Lissajous Curve",
         "url": "https://kitasenjudesign.com/work/35/"
     },
@@ -384,7 +384,7 @@
     {
         "date": "2013",
         "tags": [
-            "CANVAS"
+            "CREATEJS"
         ],
         "title": "RANDAM COLLAGER",
         "url": "https://kitasenjudesign.com/work/27/canvas.html"
@@ -489,7 +489,7 @@
     {
         "date": "2014.05.05",
         "tags": [
-            ""
+            "FLASH"
         ],
         "title": "MOSAIC",
         "url": "https://kitasenjudesign.com/work/21/"
