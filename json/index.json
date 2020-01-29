@@ -4,21 +4,21 @@
 		
 		{
 				"date":"2020",
-				"tags":["2020","CANVAS","P5JS","TYPOGRAPHY"],
+				"tags":["2020","P5JS","TYPOGRAPHY"],
 				"title": "QUADTREE_PDC",
 				"url": "https://editor.p5js.org/kitasenjudesign/full/7f8qsGgUm"
 		},
 		
 		{
 				"date":"2020",
-				"tags":["2020","CANVAS","P5JS"],
+				"tags":["2020","P5JS"],
 				"title": "QUADTREE_COLOR",
 				"url": "https://editor.p5js.org/kitasenjudesign/full/SaMlj4oYn"
 		},		
 		
 		{
 				"date":"2019",
-				"tags":["CANVAS","CREATEJS"],
+				"tags":["2019","CREATEJS"],
 				"title": "MONA PAINT B",
 				"url": "https://kitasenjudesign.com/sketch/20/"
 		},		
@@ -37,13 +37,13 @@
 		
 		{
 				"date":"2019",
-				"tags":["WEBGL"],
+				"tags":["WEBGL","TYPOGRAPHY"],
 				"title": "VERLET NET 3",
 				"url": "http://kitasenjudesign.com/sketch/18/"
 		},			
 		{
 				"date":"2019",
-				"tags":["WEBGL"],
+				"tags":["WEBGL","TYPOGRAPHY"],
 				"title": "VERLET NET 2",
 				"url": "http://kitasenjudesign.com/sketch/17/"
 		},		
@@ -74,14 +74,14 @@
 	
 		{
 				"date":"2017.01.25",
-				"tags":["WEBGL"],
+				"tags":["WEBGL","TYPOGRAPHY"],
 				"title": "VRDG",
 				"url": "https://kitasenjudesign.com/sketch/10/"
 		},
 		
 		{
 				"date":"2017.01.25",
-				"tags":["WEBGL"],
+				"tags":["WEBGL","TYPOGRAPHY"],
 				"title": "BEYONDCODE",
 				"url": "https://kitasenjudesign.com/work/85/"
 		},
@@ -173,8 +173,8 @@
     },
     {
       "date":"2016",
-      "tags":["WEBGL"],
-        "title": "Typo Aquarium",
+      "tags":["WEBGL","TYPOGRAPHY"],
+        "title": "Aquarium",
         "url": "https://kitasenjudesign.com/work/77/"
     },
     {
