@@ -174,7 +174,7 @@
     },
     {
       "date":"2016.10.25",
-      "tags":["CREATEJS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
         "title": "CLOP CIRCLES",
         "url": "https://kitasenjudesign.com/work/84/"
     },
@@ -232,7 +232,7 @@
     },
     {
       "date":"2015",
-      "tags":["CANVAS"],
+      "tags":["CREATEJS","TYPOGRAPHY"],
         "title": "MONA LISA KANJI",
         "url": "https://kitasenjudesign.com/work/53/"
     },
@@ -271,7 +271,7 @@
     },
     {
       "date":"2015",
-      "tags":["CANVAS","WEBCAM"],
+      "tags":["CREATEJS","WEBCAM"],
       "title": "TOKYO 2020 GENERATOR",
       "url": "https://kitasenjudesign.com/work/67/"
     },
