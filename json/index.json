@@ -108,19 +108,19 @@
 		{
 				"date":"2018.01.25",
 				"tags":["WEBGL"],
-				"title": "PROJECTION 3 - LENNA",
+				"title": "PROJECTION 3 - QUAD",
 				"url": "https://kitasenjudesign.com/sketch/08/"
 		},			
 		{
 				"date":"2018.01.25",
 				"tags":["WEBGL","TYPOGRAPHY"],
-				"title": "PROJECTION 2 - TYPOGRAPHY",
+				"title": "PROJECTION 2 - CUBE",
 				"url": "https://kitasenjudesign.com/sketch/07/"
 		},		
 		{
 				"date":"2018.01.25",
 				"tags":["WEBGL"],
-				"title": "PROJECTION 1 - LENNA",
+				"title": "PROJECTION 1 - SPHERE",
 				"url": "https://kitasenjudesign.com/sketch/04/"
 		},
 
@@ -134,7 +134,7 @@
 		{
 			"date":"2017.08.25",
 			"tags":["HTML","TYPOGRAPHY"],
-			"title": "GENERATIVE LOGO SYSTEM",
+			"title": "GENERATIVE HTML LOGO",
 			"url": "https://kitasenjudesign.com/sketch/03"
 		},
 
@@ -149,13 +149,13 @@
     {
       "date":"2017.08.25",
       "tags":["WEBGL"],
-      "title": "BOID AND SEED",
+      "title": "BOIDS AND FEED",
       "url": "https://kitasenjudesign.com/work/93/"
     },
 
     {
       "date":"2017.08.25",
-      "tags":["WEBGL"],
+      "tags":["WEBGL","TYPOGRAPHY"],
       "title": "kitasenjudesign.com v2",
       "url": "https://kitasenjudesign.com/v2"
     },
