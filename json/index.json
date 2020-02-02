@@ -29,12 +29,7 @@
 				"url": "https://editor.p5js.org/kitasenjudesign/full/SaMlj4oYn"
 		},		
 		
-		{
-				"date":"2019",
-				"tags":["CREATEJS"],
-				"title": "MONA LISA PAINT XOR",
-				"url": "https://kitasenjudesign.com/sketch/20/"
-		},		
+	
 				{
 				"date":"2019",
 				"tags":["WEBGL","TYPOGRAPHY"],
@@ -224,16 +219,22 @@
         "url": "https://kitasenjudesign.com/work/71/"
 
 	},
+		{
+				"date":"2019",
+				"tags":["CREATEJS","MONALISA"],
+				"title": "MONA LISA - XOR",
+				"url": "https://kitasenjudesign.com/sketch/20/"
+		},			
     {
       	"date":"2015",
-      	"tags":["CREATEJS"],
-        "title": "MONA LISA PAINT",
+      	"tags":["CREATEJS","MONALISA"],
+        "title": "MONA LISA - PAINT",
         "url": "https://kitasenjudesign.com/work/63/"
     },
     {
       "date":"2015",
-      "tags":["CREATEJS","TYPOGRAPHY"],
-        "title": "MONA LISA KANJI",
+      "tags":["CREATEJS","TYPOGRAPHY","MONALISA"],
+        "title": "MONA LISA - KANJI",
         "url": "https://kitasenjudesign.com/work/53/"
     },
 
