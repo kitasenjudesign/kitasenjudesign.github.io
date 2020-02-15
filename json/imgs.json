@@ -1,5 +1,13 @@
 {
 	"imgs":[
+		
+	{
+		"tags":["2019","AR"],
+		"img":"https://kitasenjudesign.com/meisai/img/common/thumbs/meisai2.jpg",
+		"url":"https://kitasenjudesign.com/meisai/",
+		"title":"MEISAI"
+	},
+		
 	{
 		"tags":["2020","WEBGL"],
 		"img":"https://kitasenjudesign.github.io/img/waveLogo.png",
