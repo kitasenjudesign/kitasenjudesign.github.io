@@ -20,7 +20,7 @@ We mainly use programming and real-time rendering tools, not only algorithmic ex
 
 ## text 
 
-北千住に棲むプログラマー／ARクリエーター。アプリ、Web、舞台演出など、インタラクティブメディア上で視覚表現の研究・開発をしている。
+北千住に棲むプログラマー／ARクリエーター。アプリ、Web、VJなど、インタラクティブメディア上で視覚表現の研究・開発をしている。
 近年では21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展への出展や、フィルタアプリMEISAIの開発など、ARを使った作品を多く開発している。
 http://kitasenjudesign.com/
 
