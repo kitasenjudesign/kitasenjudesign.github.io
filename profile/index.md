@@ -9,7 +9,7 @@
 北千住に棲むプログラマー／アーティスト。Web、アプリ、VJなど、インタラクティブメディア上で、コードを用いて視覚表現の研究・開発をしている。21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展に作品を出展するなど、いろいろ活動中。
 http://kitasenjudesign.com/
 
-## text ver0
+## text ver2
 
 北千住デザインは、オンスクリーンにおける視覚表現の研究・開発を行っています。 主にプログラミングとリアルタイムレンダリング系のツールを用い、アルゴリズミックな表現はもちろんのこと、邪道的な道具の使い方やアイデアの組み合わせ（≒クソコラorヘタウマ）を用いて、
 画一的あるいは技術偏重な表現に陥らない、稀有で新しい表現を作り出すことを目標にしています。
@@ -18,9 +18,9 @@ Kitasenju Design is engaged in research and development of on-screen visual expr
 
 We mainly use programming and real-time rendering tools, not only algorithmic expressions, but also eclectic use of tools and ideas, so that we do not fall into uniform or technology-oriented expressions. The goal is to create rare and new expressions.
 
-## text 
+## text ver2.1
 
-北千住に棲むプログラマー／ARクリエーター。アプリ・Web・VJなど、インタラクティブメディア上で視覚表現の研究開発を行っている。
+北千住に棲むプログラマー／ARクリエーター。アプリ・Web・VJなど、インタラクティブメディアにおける視覚表現の研究開発を行っている。
 近年では21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展への出展や、フィルタアプリMEISAIの開発など、ARを使った作品を多く手掛けている。
 http://kitasenjudesign.com/
 
