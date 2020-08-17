@@ -10,7 +10,7 @@ img {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: "Helvetica Neue", Helvetica, Arial, Verdana, Roboto;
   background-color: #eee;
   margin: 0;
   padding: 0;
