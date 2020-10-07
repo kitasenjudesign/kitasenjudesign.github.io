@@ -1,6 +1,13 @@
 {
 	"imgs":[
 	{
+		"tags":["2020","MOTIONGRAPHICS"],
+		"img":"https://kitasenjudesign.github.io/img/motion.gif",
+		"url":"https://kitasenjudesign.com/handdrawn/",
+		"title":"Hand-drawn motion graphics",
+		"height":163
+	},					
+	{
 		"tags":["2020","UNITY"],
 		"img":"https://kitasenjudesign.github.io/img/tofu.png",
 		"url":"https://vimeo.com/455457164",
