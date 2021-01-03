@@ -2,15 +2,22 @@
 
 	"list":[
 		{
+				"date":"2021",
+				"tags":["APP"],
+				"title": "SLIT-SCAN APP",
+				"url": "https://apps.apple.com/us/app/slit-scan/id1546523250"
+		},			
+		
+		{
 				"date":"2020",
-				"tags":["AR"],
+				"tags":["AR","APP"],
 				"title": "MEISAI SIGMA",
 				"url": "https://kitasenjudesign.com/sigma/"
 		},	
 		
 		{
 				"date":"2019",
-				"tags":["AR"],
+				"tags":["AR","APP"],
 				"title": "MEISAI",
 				"url": "https://kitasenjudesign.com/meisai/"
 		},		
@@ -53,7 +60,7 @@
 
         	{
 				"date":"2018",
-				"tags":["AR"],
+				"tags":["AR","APP"],
 				"title": "JIDO-RHYTHM",
 				"url": "https://kitasenjudesign.com/jido-rhythm/"
 		},
