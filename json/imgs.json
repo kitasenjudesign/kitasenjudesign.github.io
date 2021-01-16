@@ -1,6 +1,11 @@
 {
 	"imgs":[
-		
+	{
+		"tags":["2021","AR"],
+		"img":"https://kitasenjudesign.github.io/img/slitscanapp.png",
+		"url":"https://kitasenjudesign.com/slitscan/",
+		"title":"SLITSCAN"
+	},
 	{
 		"tags":["2020","AR"],
 		"img":"https://kitasenjudesign.github.io/img/addict.gif",
