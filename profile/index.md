@@ -24,11 +24,20 @@ We mainly use programming and real-time rendering tools, not only algorithmic ex
 近年では21_21 DESIGN SIGHTで行われたAUDIO ARCHITECTURE展への出展や、フィルタアプリMEISAIの開発など、ARを使った作品を多く手掛けている。
 http://kitasenjudesign.com/
 
+## text ver3
+
+北千住デザイン
+
+プログラマー／ARクリエーター。
+21_21 DESIGN SIGHT “AUDIO ARCHITECTURE展” へのARアプリの出展、フィルタアプリMEISAIの開発など近年はARを中心に活動中。
+https://kitasenjudesign.com/
+
 
 ## photo
 
 ![aa](./icon1.jpg)
 ![bb](./icon2.jpg)
+![bb](./addict.jpg)
 
 ## 登壇
 
