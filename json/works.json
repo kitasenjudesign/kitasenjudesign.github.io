@@ -1,6 +1,12 @@
 {
 
 	"list":[
+				{
+				"date":"2021",
+				"tags":["LOGO"],
+				"title": "THIRD LOGO",
+				"url": "http://kitasenjudesign.com/third/"
+		},	
 		{
 				"date":"2021",
 				"tags":["APP"],
