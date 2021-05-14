@@ -1,6 +1,12 @@
 {
 	"imgs":[
 	{
+		"tags":["2021","LOGO"],
+		"img":"https://kitasenjudesign.github.io/img/third.png",
+		"url":"https://kitasenjudesign.com/third/",
+		"title":"Third Motion Logo"
+	},		
+	{
 		"tags":["2021","AR"],
 		"img":"https://kitasenjudesign.github.io/img/slitscanapp.png",
 		"url":"https://kitasenjudesign.com/slitscan/",
