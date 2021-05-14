@@ -1,12 +1,21 @@
 {
 
 	"list":[
-				{
+		
+		
+		{
 				"date":"2021",
 				"tags":["LOGO"],
 				"title": "THIRD LOGO",
 				"url": "http://kitasenjudesign.com/third/"
 		},	
+		{
+				"date":"2020",
+				"tags":["AR"],
+				"title": "6S STAY HOME",
+				"url": "https://vimeo.com/549107580"
+		},	
+
 		{
 				"date":"2021",
 				"tags":["APP"],
@@ -44,7 +53,7 @@
 		
         	{
 				"date":"2019",
-				"tags":["WEBGL"],
+				"tags":["WEBGL","LOGO"],
 				"title": "MUDA LOGO",
 				"url": "https://kitasenjudesign.github.io/work/2019/muda/index.html"
 		},
