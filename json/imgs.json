@@ -1,6 +1,13 @@
 {
 	"imgs":[
 	{
+		"tags":["2020","AR"],
+		"img":"https://kitasenjudesign.github.io/img/stayhome.gif",
+		"url":"",
+		"title":"STAY HOME",
+		"height":400
+	},				
+	{
 		"tags":["2021","LOGO"],
 		"img":"https://kitasenjudesign.github.io/img/third.png",
 		"url":"https://kitasenjudesign.com/third/",
