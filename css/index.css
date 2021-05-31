@@ -6,16 +6,18 @@ img {
 
 .bai {
   display: inline-block;
-  transform-origin: 0 0;
-  transform: scale(20, 1);
+  -webkit-transform-origin: 0 0;
+          transform-origin: 0 0;
+  -webkit-transform: scale(20, 1);
+          transform: scale(20, 1);
 }
 
 body {
-  font-family: Helvetica, Arial, Verdana, Roboto, "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-family: "Roboto", Helvetica, Arial, Verdana, Roboto, "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   background-color: #eee;
   margin: 0;
   padding: 0;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
 }
 
 a {
@@ -29,14 +31,22 @@ a:hover {
   color: #f00;
 }
 
+#clock {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 20px;
+}
+
 .moji {
   display: inline;
   color: #00f;
   font-size: 20px;
-  border-radius: 14px;
   padding: 2;
   text-align: center;
   pointer-events: none;
+  border-radius: 50%;
+  background-color: #f00;
 }
 
 #menu {
@@ -66,9 +76,15 @@ a:hover {
 
 #footer {
   background-color: #f00;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   height: 200px;
 }
 #footer .container {
