@@ -19,6 +19,15 @@
 
 ![third motion logo](https://kitasenjudesign.github.io/img/third.png)
 
+
+## 消えちゃう病とタイムバンカー MEISAIエフェクト提供
+
+* Format / Smartphone App
+* Client / 梅田芸術劇場
+* Role / 演出、実装(Unity)
+* URL / --
+
+
 ## HUMANITY - AR EXPERIMENTS
 
 * Format / Smartphone App
