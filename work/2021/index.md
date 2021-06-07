@@ -16,6 +16,9 @@
 * Role / 演出、実装(Unity)
 * URL / --
 
+
+![third motion logo](https://kitasenjudesign.github.io/img/third.png)
+
 ## HUMANITY - AR EXPERIMENTS
 
 * Format / Smartphone App
