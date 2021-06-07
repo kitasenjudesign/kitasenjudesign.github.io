@@ -5,21 +5,20 @@
 ## Digital Twin Tourism
 
 * Format / Smartphone App
-* Client / --
+* Client / NTT
 * Role / 演出、実装(Unity)
 * URL / --
 
 ## Third Motion Logo
 
 * Format / Smartphone App
-* Client / --
+* Client / TYO
 * Role / 演出、実装(Unity)
 * URL / --
 
 ## HUMANITY - AR EXPERIMENTS
 
 * Format / Smartphone App
-* Client / Adobe
-* Agency / BASSDRUM
+* Client / Enhance
 * Role / 演出、実装(Unity)
 * URL / --
