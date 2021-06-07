@@ -16,7 +16,7 @@ An AR work created with HUMANITY as a motif. Created for Media Ambition Tokyo 20
 ![02](./img/humanity02.png)
 
 
-<div class="video" style="padding: 0 0 58%;">
+<div class="video" style="padding: 0 0 56.25%;">
 <iframe src="//player.vimeo.com/video/559796265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
