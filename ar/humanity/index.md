@@ -12,6 +12,9 @@ HUMANITYをモチーフにして作ったAR作品。六本木ヒルズで行わ�
 An AR work created with HUMANITY as a motif. Created for Media Ambition Tokyo 2021 held at Roppongi Hills.
 </div>
 
+![01](./img/humanity01.png)
+![02](./img/humanity02.png)
+
 
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/559796265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
