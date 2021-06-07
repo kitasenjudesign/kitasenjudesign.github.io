@@ -1,7 +1,12 @@
 {
 
 	"list":[
-		
+						{
+				"date":"2021",
+				"tags":["AR","APP"],
+				"title": "HUMANITY - AR EXPERIMENTS",
+				"url": "https://kitasenju.design/ar/humanity/"
+		},
 				{
 				"date":"2019",
 				"tags":["LOGO"],
