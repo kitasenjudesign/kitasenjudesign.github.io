@@ -1,9 +1,9 @@
 ---
 layout: works
-title: HUMANITY AR
+title: HUMANITY - AR EXPERIMENTS
 ---
 
-# HUMANITY AR 
+# HUMANITY - AR EXPERIMENTS
 
 <div class="tags">#2021 #iOS #Unity</div>
 
