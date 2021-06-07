@@ -13,12 +13,12 @@ An AR work created with HUMANITY as a motif. Created for Media Ambition Tokyo 20
 </div>
 
 
-<!--div class="videoB">
-<iframe src="//player.vimeo.com/video/311863973" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="videoB">
+<iframe src="//player.vimeo.com/video/559796265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-<div class="videoB">
-<iframe src="//player.vimeo.com/video/317752750" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<!--div class="videoB">
+<iframe src="//player.vimeo.com/video/559796265" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div-->
 
 <div class="footer">
