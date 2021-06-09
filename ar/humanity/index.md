@@ -8,7 +8,7 @@ title: HUMANITY - AR EXPERIMENTS
 <div class="tags">#2021 #iOS #Unity</div>
 
 <div class="description">
-HUMANITYをモチーフにして作ったAR作品。六本木ヒルズで行われたMedia Ambition Tokyo 2021のために製作。
+HUMANITYをモチーフにして作ったAR作品。六本木ヒルズで行われたMedia Ambition Tokyo 2021のために製作。<br/>
 An AR work created with HUMANITY as a motif. Created for Media Ambition Tokyo 2021 held at Roppongi Hills.
 </div>
 
