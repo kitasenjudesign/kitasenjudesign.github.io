@@ -1,6 +1,12 @@
 {
 
 	"list":[
+		{
+				"date":"2021",
+				"tags":["MOTION LOGO"],
+				"title": "YOU FAB 2021 - MOTION LOGO",
+				"url": "https://kitasenju.design/youfab/"
+		},
 						{
 				"date":"2021",
 				"tags":["AR","APP"],
@@ -9,14 +15,14 @@
 		},
 				{
 				"date":"2019",
-				"tags":["LOGO"],
-				"title": "VRDG LOGO",
+				"tags":["MOTION LOGO"],
+				"title": "VRDG - MOTION LOGO",
 				"url": "http://kitasenjudesign.com/sketch/10/"
 		},
 		{
 				"date":"2021",
-				"tags":["LOGO"],
-				"title": "THIRD LOGO",
+				"tags":["MOTION LOGO"],
+				"title": "THIRD - MOTION LOGO",
 				"url": "http://kitasenjudesign.com/third/"
 		},	
 		{
