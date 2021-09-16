@@ -3,6 +3,12 @@
 	"list":[
 		{
 				"date":"2021",
+				"tags":["AR"],
+				"title": "DOTOU",
+				"url": "https://kitasenju.design/ar/dotou/"
+		},		
+		{
+				"date":"2021",
 				"tags":["MOTION LOGO"],
 				"title": "YOU FAB 2021 - MOTION LOGO",
 				"url": "https://kitasenjudesign.com/youfab/"
