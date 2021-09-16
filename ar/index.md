@@ -9,5 +9,5 @@
 * [instancing](https://kitasenjudesign.github.io/ar/instancing/)
 
 * [jido-rhythm](https://kitasenjudesign.com/jido-rhythm/)
-
+* [dotou](https://kitasenjudesign.github.io/ar/dotou/)
 
