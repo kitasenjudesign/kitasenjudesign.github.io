@@ -11,8 +11,8 @@ title: DOTOU
 スカイツリーで行われた隅田川怒濤「天空の黎明」のオープニング／幕間のAR映像
 </div>
 
-![00](./dotou/00.png)
-![00](./dotou/01.png)
-![00](./dotou/02.png)
-![00](./dotou/03.png)
-![00](./dotou/04.png)
+![00](./dotou0.png)
+![01](./dotou1.png)
+![02](./dotou2.png)
+![03](./dotou3.png)
+![04](./dotou4.png)
