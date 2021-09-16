@@ -1,6 +1,6 @@
 ---
 layout: works
-title: DOTOU
+title: DOTOU - Opening Movie
 ---
 
 # DOTOU
@@ -17,3 +17,8 @@ opening movie for https://dotou.tokyo/
 ![02](./dotou2.png)
 ![03](./dotou3.png)
 ![04](./dotou4.png)
+
+
+<div class="footer">
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+</div>
