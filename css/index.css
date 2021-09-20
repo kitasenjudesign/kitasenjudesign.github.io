@@ -13,11 +13,12 @@ img {
 }
 
 body {
-  font-family: "Space Mono", monospace, "Roboto", Helvetica, Arial, Verdana, Roboto, "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-family: "Roboto", Helvetica, Arial, Verdana, Roboto, "游ゴシック", "Yu Gothic", "游ゴシック体", "YuGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Meiryo UI", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
   background-color: #eee;
   margin: 0;
   padding: 0;
   letter-spacing: 0.04em;
+  font-size: 20px;
 }
 
 a {
@@ -38,10 +39,13 @@ a:hover {
   font-size: 20px;
 }
 
+.ik {
+  font-size: 15px;
+}
+
 .moji {
   display: inline;
   color: #00f;
-  font-size: 20px;
   padding: 2;
   text-align: center;
   pointer-events: none;
