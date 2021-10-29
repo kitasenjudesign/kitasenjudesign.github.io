@@ -3,6 +3,13 @@
 	"list":[
 		{
 				"date":"2021",
+				"tags":["SLITSCAN"],
+				"title": "STRUCTURE OF SLIT-SCAN",
+				"url": "https://spiritual-timer-f8d.notion.site/Structure-of-Slit-scan-0fbc2ea80d35465f9bb96380b1b36d45"			
+			
+		},
+		{
+				"date":"2021",
 				"tags":["AR"],
 				"title": "DOTOU",
 				"url": "https://kitasenju.design/ar/dotou/"
@@ -40,8 +47,8 @@
 
 		{
 				"date":"2021",
-				"tags":["APP"],
-				"title": "SLIT-SCAN APP",
+				"tags":["APP","SLITSCAN"],
+				"title": "SUPER SLIT SCAN",
 				"url": "https://apps.apple.com/us/app/slit-scan/id1546523250"
 		},			
 		
