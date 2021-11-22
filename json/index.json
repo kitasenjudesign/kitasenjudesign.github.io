@@ -2,7 +2,25 @@
 
 	"list":[
 		
-		
+		{
+			"date":"2021",
+			"tags":["2021","CSS"],
+			"title": "YOUR WEBSITE 02",
+			"url": "https://codepen.io/kitasenjudesign/full/gOxyZNd"
+		},	
+		{
+			"date":"2021",
+			"tags":["2021","CSS"],
+			"title": "YOUR WEBSITE 01",
+			"url": "https://codepen.io/kitasenjudesign/full/GRvQymX"
+		},	
+
+		{
+			"date":"2021",
+			"tags":["2021","CSS"],
+			"title": "GRADATION",
+			"url": "https://codepen.io/kitasenjudesign/full/porBJwE"
+		},			
 		
 		{
 			"date":"2021",
