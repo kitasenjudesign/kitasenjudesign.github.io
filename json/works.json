@@ -3,6 +3,13 @@
 	"list":[
 		{
 				"date":"2021",
+				"tags":["APP"],
+				"title": "RIPPLE/CLOCK",
+				"url": "https://vimeo.com/652835188"			
+			
+		},		
+		{
+				"date":"2021",
 				"tags":["APP","SLITSCAN"],
 				"title": "STRUCTURE OF SLIT-SCAN",
 				"url": "https://spiritual-timer-f8d.notion.site/Structure-of-Slit-scan-0fbc2ea80d35465f9bb96380b1b36d45"			
