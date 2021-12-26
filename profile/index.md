@@ -32,6 +32,14 @@ http://kitasenjudesign.com/
 21_21 DESIGN SIGHT “AUDIO ARCHITECTURE展” へのARアプリの出展、フィルタアプリMEISAIの開発など近年はARを中心に活動中。
 https://kitasenjudesign.com/
 
+## text ver4
+
+プログラマー／北千住デザイン主催
+
+近年はAR(拡張現実）の領域で活動中、iOSアプリのMEISAI、SuperSlitScanを開発。
+展示では、2018年AUDIO ARCHITECTURE展や2021年MediaAmbitionTokyoへ出展。
+山梨県富士川町出身。http://kitasenjudesign.gom/
+
 
 ## photo
 
