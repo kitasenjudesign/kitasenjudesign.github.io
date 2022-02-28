@@ -1,6 +1,12 @@
 {
 	"imgs":[
-		
+			{
+		"tags":["2021","CLOCK"],
+		"img":"https://kitasenjudesign.github.io/img/rippleclock.gif",
+		"url":"https://frm.fm/a/kitasenju_design/ripple_clock",
+		"title":"RippleClock",
+		"height":480
+	},
 	{
 		"tags":["2021","MOTION LOGO"],
 		"img":"https://kitasenjudesign.com/youfab/list/gif_animation_137.gif",
