@@ -1,6 +1,13 @@
 {
 	"imgs":[
-			{
+	
+	{
+		"tags":["2021","AR"],
+		"img":"https://kitasenjudesign.github.io/img/sky_segmentation.jpg",
+		"url":"https://vimeo.com/656872247",
+		"title":"Building"
+	},
+	{
 		"tags":["2021","CLOCK"],
 		"img":"https://kitasenjudesign.github.io/img/rippleclock2.gif",
 		"url":"https://frm.fm/a/kitasenju_design/ripple_clock",
