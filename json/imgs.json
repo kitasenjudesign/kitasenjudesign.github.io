@@ -449,11 +449,19 @@
 			"title":"get you back MV"
 		},
 		{
+			"tags":["2015","WEBGL","CLOCK"],
+			"img":"https://kitasenjudesign.github.io/img/floatingclock.gif",
+			"url":"",
+			"title":"FLOATING CLOCK"
+			"height":214
+		},
+		{
 			"tags":["2015","WEBGL"],
 			"img":"https://kitasenjudesign.github.io/img/17_clock.png",
 			"url":"https://kitasenjudesign.com/work/46/",
 			"title":"CLOCK2"
 		},
+		
 		{
 			"tags":["2015","WEBGL"],
 			"img":"https://kitasenjudesign.github.io/img/19_eye.png",
