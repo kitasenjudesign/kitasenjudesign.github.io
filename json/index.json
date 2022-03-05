@@ -5,34 +5,34 @@
 		
 		{
 			"date":"2021",
-			"tags":["2021"],
+			"tags":["unity"],
 			"title": "Reverse Perspective",
 			"url": "https://kitasenjudesign.com/reverse/"
 		},			
 		{
 			"date":"2021",
-			"tags":["2021","CSS"],
+			"tags":["CSS"],
 			"title": "GRADATION RADIAL",
 			"url": "https://codepen.io/kitasenjudesign/full/KKvYbXJ"
 		},			
 		
 		{
 			"date":"2021",
-			"tags":["2021","CSS"],
+			"tags":["CSS"],
 			"title": "GRADATION LINEAR",
 			"url": "https://codepen.io/kitasenjudesign/full/porBJwE"
 		},			
 		
 		{
 			"date":"2020",
-			"tags":["2020","P5JS"],
+			"tags":["P5JS"],
 			"title": "IK BALLS",
 			"url": "https://editor.p5js.org/kitasenjudesign/full/2ylMxvEu3"
 		},
 		
 		{
 			"date":"2020",
-			"tags":["2020","TYPOGRAPHY","CLOCK"],
+			"tags":["TYPOGRAPHY","CLOCK"],
 			"title": "IK CLOCK",
 			"url": "https://kitasenjudesign.com/sketch/27/"
 		},
@@ -40,14 +40,14 @@
 		
 		{
 			"date":"2020",
-			"tags":["2020","TYPOGRAPHY","DRAWING"],
+			"tags":["TYPOGRAPHY","DRAWING"],
 			"title": "HAND-DRAWN MOTION GRAPHICS",
 			"url": "https://kitasenjudesign.com/handdrawn/"
 		},
 		
 		{
 			"date":"2020",
-			"tags":["2020","DRAWING"],
+			"tags":["DRAWING"],
 			"title": "KUROKUTE NIBUI",
 			"url": "https://kurokutenibui.tumblr.com/"
 		},
@@ -55,7 +55,7 @@
 		
 		{
 			"date":"2020",
-			"tags":["2020","HTML","TYPOGRAPHY"],
+			"tags":["HTML","TYPOGRAPHY"],
 			"title": "MOJI IK",
 			"url": "https://kitasenjudesign.com/sketch/23/"
 		},		
@@ -63,7 +63,7 @@
 		
 		{
 			"date":"2020",
-			"tags":["2020","WEBGL"],
+			"tags":["WEBGL"],
 			"title": "CLOTH",
 			"url": "https://kitasenjudesign.com/sketch/25/"
 		},		
@@ -71,14 +71,14 @@
 		
 		{
 				"date":"2020",
-				"tags":["2020","WEBGL"],
+				"tags":["WEBGL"],
 				"title": "WATER RIPPLE",
 				"url": "https://kitasenjudesign.com/sketch/22/"
 		},		
 		
 		{
 				"date":"2020",
-				"tags":["2020","P5JS"],
+				"tags":["P5JS"],
 				"title": "REFLECTION",
 				"blank":true,
 				"url": "https://editor.p5js.org/kitasenjudesign/full/j6yodhKHu"
@@ -86,14 +86,14 @@
 		
 		{
 				"date":"2020",
-				"tags":["2020","P5JS"],
+				"tags":["P5JS"],
 				"title": "QUADTREE CIRCLE",
 				"blank":true,
 				"url": "https://editor.p5js.org/kitasenjudesign/full/YuY1Hbz4R"
 		},
 		{
 				"date":"2020",
-				"tags":["2020","P5JS","TYPOGRAPHY"],
+				"tags":["P5JS","TYPOGRAPHY"],
 				"title": "QUADTREE PDC",
 				"blank":true,
 				"url": "https://editor.p5js.org/kitasenjudesign/full/7f8qsGgUm"
@@ -101,7 +101,7 @@
 		
 		{
 				"date":"2020",
-				"tags":["2020","P5JS"],
+				"tags":["P5JS"],
 				"title": "QUADTREE COLOR",
 				"blank":true,
 				"url": "https://editor.p5js.org/kitasenjudesign/full/SaMlj4oYn"
