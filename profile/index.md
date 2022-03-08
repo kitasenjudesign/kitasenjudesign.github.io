@@ -44,6 +44,7 @@ https://kitasenjudesign.com/
 
 北千住デザイン（渡邊敬之)
 ARクリエーター／プログラマー
+AR技術を映像製作のためのメディウムととらえていろんな実験を行なっている。
 主な仕事に、ARフィルタアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展、雑誌「広告 Vol.416 特集：虚実」のアートワークの担当など。
 http://kitasenjudesign.gom/
 
