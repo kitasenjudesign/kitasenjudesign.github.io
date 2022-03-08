@@ -40,6 +40,15 @@ https://kitasenjudesign.com/
 展示では、2018年AUDIO ARCHITECTURE展や2021年MediaAmbitionTokyoへ出展。
 山梨県富士川町出身。http://kitasenjudesign.gom/
 
+## text ver4.1
+
+北千住デザイン（渡邊敬之)
+ARクリエーター／プログラマー
+iOSアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展。
+雑誌「広告」のアートワーク担当。
+http://kitasenjudesign.gom/
+
+
 
 ## photo
 
