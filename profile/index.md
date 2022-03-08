@@ -44,8 +44,8 @@ https://kitasenjudesign.com/
 
 北千住デザイン（渡邊敬之)
 ARクリエーター／プログラマー
-iOSアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展。
-雑誌「広告」のアートワーク担当。
+ARフィルタアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展。
+雑誌「広告 Vol.416 特集：虚実」のアートワーク担当。
 http://kitasenjudesign.gom/
 
 
