@@ -48,6 +48,12 @@ AR技術を映像製作のためのメディウムととらえていろんな実
 主な仕事に、ARフィルタアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展、雑誌「広告 Vol.416 特集：虚実」のアートワークなど。
 http://kitasenjudesign.gom/
 
+## text ver4.2
+
+北千住デザイン　（渡邊敬之)
+ARクリエーター／プログラマー
+ARを使った主な仕事に、iOSアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへの出展、雑誌「広告 Vol.416 特集：虚実」のアートワークなど。
+http://kitasenjudesign.gom/
 
 
 ## photo
