@@ -1,0 +1,122 @@
+html{
+  width: 100%;
+}
+
+body{
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-family:  "Roboto", Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-feature-settings : "palt" 1;
+}
+
+::selection {
+    background: #ff0;
+    color: #00f;
+}
+
+a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
+p{
+  text-align: justify;
+  margin: 0;
+  padding: 0px 0;
+}
+
+ul{
+  color: #888888;
+  padding-left: 0;
+  margin-left: 0;
+  margin-top: 70px;
+}
+
+h1{
+  color: #0000ff;
+  font-size: 2em;
+  padding: 100px 0 0 0;
+  text-align: center;
+  line-height: 1.5em;
+  margin-top: 100px;
+}
+
+h2{
+    color: #0000ff;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    display: block;
+    padding-bottom: 7px;
+    margin-top: 100px;
+}
+
+img{
+  width: 100%; 
+  margin-bottom: 15px;
+}
+
+.markdown-body{
+  width: 90%;
+  max-width: 1000px;
+  margin: 0px auto;
+  padding: 10px 10px;
+  background-color: #ffffff;
+  line-height: 1.5em;
+}
+
+h4{
+  color: #0000ff;
+  text-align: center;
+  font-size: normal;
+  margin: 100px 0 100px 0
+}
+
+.video {
+  position: relative;
+  height: 0;
+  padding: 0 0 56.25%;
+  margin: 0 0 15px 0;
+  overflow: hidden;
+}
+.video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.videoB {
+  position: relative;
+  height: 0;
+  padding: 0 0 46.14%;
+  margin: 0 0 15px 0;
+  overflow: hidden;
+}
+.videoB iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.tags{
+  text-align: center;
+  padding: 10px 0 140px 0;
+  color: #0000ff;
+}
+
+.description {
+  text-align: left;
+  padding: 40px 0 40px 0;
+  margin: 0;
+  line-height: 200%;
+}
+
+.footer {
+  text-align: center;
+  padding: 100px 0 100px 0;  
+}
