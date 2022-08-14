@@ -25,6 +25,6 @@ title: index
 * https://www.youtube.com/watch?v=hcLDgVptI48&t=23s
 
 ## src
-* [https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/slitscan](markdown)
-* [https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/css](css)
+* https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/slitscan
+* https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/css
 
