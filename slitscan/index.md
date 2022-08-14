@@ -1,5 +1,5 @@
 ---
-layout: works
+layout: slitscan
 title: index
 ---
 
