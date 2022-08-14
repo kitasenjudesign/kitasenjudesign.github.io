@@ -3,6 +3,8 @@ layout: slitscan
 title: index
 ---
 
+# list of slitscan works
+
 ## index
 * <a href="#TeisDraiby">TeisDraiby</a>
 * <a href="#FrancoisVogel">FrancoisVogel</a>
