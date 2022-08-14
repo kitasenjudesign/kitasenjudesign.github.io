@@ -4,14 +4,14 @@ title: index
 ---
 
 ## index
-* a(href="#TeisDraiby") Teis Draiby
-* a(href="#FrancoisVogel") FrancoisVogel
-* a(href="#HiroshiKondo") HiroshiKondo
+* <a href="#TeisDraiby">TeisDraiby</a>
+* <a href="#FrancoisVogel">FrancoisVogel</a>
+* <a href="#HiroshiKondo">HiroshiKondo</a>
 
 ## <span id="TeisDraiby">Teis Draiby</id>
-* [https://vimeo.com/36763488:title]
-* [https://vimeo.com/36403096:title]
-* [https://entreentre.org/Ee02.html:title]
+* https://vimeo.com/36763488:title
+* https://vimeo.com/36403096:title
+* https://entreentre.org/Ee02.html:title
 
 ## <span id="FrancoisVogel">Francois Vogel</span>
 * https://www.instagram.com/francois.vogel/
