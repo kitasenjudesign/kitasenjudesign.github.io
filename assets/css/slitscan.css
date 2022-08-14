@@ -17,7 +17,6 @@ body{
 
 a {
     display: block;
-    text-decoration: none;
 }
 
 p{
@@ -119,3 +118,4 @@ h4{
   text-align: center;
   padding: 100px 0 100px 0;  
 }
+
