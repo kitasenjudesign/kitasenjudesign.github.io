@@ -1,6 +1,12 @@
 {
 	"imgs": [
 		{
+			"tags": ["2022"],
+			"img": "https://kitasenjudesign.github.io/img/superslitscan1.gif",
+			"url": "https://kitasenjudesign.com/slitscan/",
+			"title": "SUPER SLIT SCAN"
+		},		
+		{
 			"tags": ["2022", "T-Shirt"],
 			"img": "https://kitasenjudesign.github.io/img/cliche.png",
 			"url": "",
