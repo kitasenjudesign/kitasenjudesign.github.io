@@ -1,1 +1,0 @@
-https://kitasenju.design/slitscan
