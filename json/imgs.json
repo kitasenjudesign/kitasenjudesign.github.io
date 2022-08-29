@@ -1,6 +1,12 @@
 {
 	"imgs": [
 		{
+			"tags": ["2022", "T-Shirt"],
+			"img": "https://kitasenjudesign.github.io/img/bogowasha.png",
+			"url": "",
+			"title": "Bogowasha"
+		},		
+		{
 			"tags": ["2022"],
 			"img": "https://kitasenjudesign.github.io/img/superslitscan0.gif",
 			"url": "https://kitasenjudesign.com/slitscan/",
