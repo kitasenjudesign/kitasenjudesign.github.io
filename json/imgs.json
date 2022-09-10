@@ -2,6 +2,12 @@
 	"imgs": [
 		{
 			"tags": ["2022", "Web"],
+			"img": "https://kitasenjudesign.github.io/img/kitasenju_red.jpeg",
+			"url": "",
+			"title": "kitasenjudesign v4"
+		},		
+		{
+			"tags": ["2022", "Web"],
 			"img": "https://kitasenjudesign.github.io/img/sumida2.png",
 			"url": "",
 			"title": "SMIDAGAWA DOCHU"
