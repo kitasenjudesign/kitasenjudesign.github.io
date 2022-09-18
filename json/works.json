@@ -3,6 +3,13 @@
 	"list":[
 		{
 				"date":"2022",
+				"tags":["WEBSITE"],
+				"title": "SUMIDAGAWA DOCHU",
+				"url": "https://douchu.tokyo/"			
+			
+		},			
+		{
+				"date":"2022",
 				"tags":["APP","SLITSCAN"],
 				"title": "STRUCTURE OF SLIT-SCAN",
 				"url": "https://kitasenjudesign.com/slitscan/structure/"			
@@ -33,7 +40,7 @@
 		{
 				"date":"2021",
 				"tags":["AR"],
-				"title": "DOTOU",
+				"title": "SUMIDAGAWA DOTOU",
 				"url": "https://kitasenju.design/ar/dotou/"
 		},		
 		{
