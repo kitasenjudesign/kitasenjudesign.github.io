@@ -1,6 +1,11 @@
 {
 	"imgs": [
-		
+		{
+			"tags": ["2022", "Web"],
+			"img": "https://kitasenjudesign.github.io/img/sumida.jpg",
+			"url": "",
+			"title": "SUMIDAGAWA DOCHU"
+		},	
 		
 		{
 			"tags": ["2022", "AR"],
