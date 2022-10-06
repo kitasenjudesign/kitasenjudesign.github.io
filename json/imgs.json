@@ -1,5 +1,11 @@
 {
 	"imgs": [
+				{
+			"tags": ["2022", "App"],
+			"img": "https://kitasenjudesign.github.io/img/toppan2.png",
+			"url": "",
+			"title": "GEMINI"
+		},	
 		{
 			"tags": ["2022", "Web"],
 			"img": "https://kitasenjudesign.github.io/img/sumida2.gif",
