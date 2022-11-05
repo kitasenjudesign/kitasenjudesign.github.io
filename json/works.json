@@ -3,7 +3,14 @@
 	"list":[
 		{
 				"date":"2022",
-				"tags":["WEBSITE"],
+				"tags":["WEBGL"],
+				"title": "YAMANASHI MEDIA ARTS AWARD 2020",
+				"url": "https://kitasenjudesign.com/sketch/36/"			
+			
+		},					
+		{
+				"date":"2022",
+				"tags":["WEBGL"],
 				"title": "SUMIDAGAWA DOCHU",
 				"url": "https://douchu.tokyo/"			
 			
