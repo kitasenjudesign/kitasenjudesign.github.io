@@ -1,6 +1,13 @@
 {
 
 	"list":[
+		
+		{
+			"date":"2022",
+			"tags":["svg"],
+			"title": "SVG Animation Viewer",
+			"url": "https://kitasenjudesign.com/svg/"
+		},		
 		{
 			"date":"2022",
 			"tags":["webgl"],
