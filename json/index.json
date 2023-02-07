@@ -1,6 +1,12 @@
 {
 
 	"list":[
+		{
+			"date":"2023",
+			"tags":["webgl"],
+			"title": "RIPPLE 3",
+			"url": "https://kitasenjudesign.com/sketch/48/"
+		},		
 		
 		{
 			"date":"2023",
@@ -115,7 +121,7 @@
 		{
 				"date":"2020",
 				"tags":["WEBGL"],
-				"title": "WATER RIPPLE",
+				"title": "RIPPLE 1",
 				"url": "https://kitasenjudesign.com/sketch/22/"
 		},		
 		
