@@ -40,6 +40,13 @@
 		{
 			"date":"2022",
 			"tags":["svg"],
+			"title": "SVG Pen",
+			"url": "https://codepen.io/kitasenjudesign/pen/rNpJZrz"
+		},		
+		
+		{
+			"date":"2022",
+			"tags":["svg"],
 			"title": "SVG Animation Viewer",
 			"url": "https://kitasenjudesign.com/svg/"
 		},		
