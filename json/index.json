@@ -40,9 +40,17 @@
 		{
 			"date":"2022",
 			"tags":["svg"],
-			"title": "SVG Pen",
+			"title": "DRAWING TOOL SVG",
 			"url": "https://codepen.io/kitasenjudesign/pen/rNpJZrz"
-		},		
+		},
+		
+		{
+			"date":"2021",
+			"tags":["unity"],
+			"title": "DRAWING TOOL",
+			"url": "https://kitasenjudesign.com/draw/"
+		},			
+		
 		
 		{
 			"date":"2022",
@@ -76,12 +84,7 @@
 			"title": "HTML SKETCHES",
 			"url": "https://000690273.codepen.website/"
 		},	
-				{
-			"date":"2021",
-			"tags":["unity"],
-			"title": "draw",
-			"url": "https://kitasenjudesign.com/draw/"
-		},	
+
 		{
 			"date":"2021",
 			"tags":["webgl"],
