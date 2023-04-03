@@ -1,6 +1,12 @@
 {
 	"imgs": [
 		{
+			"tags": ["2023", "Video"],
+			"img": "https://kitasenjudesign.github.io/img/parco.gif",
+			"url": "",
+			"title": "ONLINE PARCO"
+		},			
+		{
 			"tags": ["2022", "Web"],
 			"img": "https://kitasenjudesign.github.io/img/quantaniuum.png",
 			"url": "",
