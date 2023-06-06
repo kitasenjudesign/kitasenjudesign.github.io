@@ -38,7 +38,7 @@ https://kitasenjudesign.com/
 
 近年はAR(拡張現実）の領域で活動中、iOSアプリのMEISAI、SuperSlitScanを開発。
 展示では、2018年AUDIO ARCHITECTURE展や2021年MediaAmbitionTokyoへ出展。
-山梨県富士川町出身。http://kitasenjudesign.gom/
+山梨県富士川町出身。http://kitasenjudesign.com/
 
 ## text ver4.1
 
@@ -46,15 +46,18 @@ https://kitasenjudesign.com/
 ARクリエーター／プログラマー
 AR技術を映像製作のためのメディウムととらえていろんな実験を行なっている。
 主な仕事に、ARフィルタアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへ出展、雑誌「広告 Vol.416 特集：虚実」のアートワークなど。
-http://kitasenjudesign.gom/
+http://kitasenjudesign.com/
 
 ## text ver4.2
 
 北千住デザイン　（渡邊敬之)
 ARクリエーター／プログラマー
 ARを使った主な仕事に、iOSアプリのMEISAIの開発、AUDIO ARCHITECTURE展やMediaAmbitionTokyoへの出展、雑誌「広告 Vol.416 特集：虚実」のアートワークなど。
-http://kitasenjudesign.gom/
+http://kitasenjudesign.com/
 
+## text ver4.3
+北千住デザインは、ARアプリ・Webサイト・映像インスターレション・NFTなど、リアルタイムCGの領域で、新しい視覚表現の実験と実装を行っています。
+http://kitasenjudesign.com/
 
 ## photo
 
