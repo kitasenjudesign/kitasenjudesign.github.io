@@ -2,6 +2,25 @@
 
 	"list":[
 		{
+				"date":"2023",
+				"tags":["NFT"],
+				"title": "64 RECANGLES",
+				"url": "https://kitasenjudesign.com/rects/"			
+		},
+		{
+				"date":"2023",
+				"tags":["WEBGL"],
+				"title": "PROOF OF X - KEY VISUAL",
+				"url": "https://kitasenjudesign.com/work/proofofx/"			
+		},
+		{
+				"date":"2022",
+				"tags":[""],
+				"title": "GEMINI - KEY VISUAL",
+				"url": ""			
+		},
+		
+		{
 				"date":"2022",
 				"tags":["WEBGL"],
 				"title": "QUANTANIUUM KEY VISUAL",
