@@ -2,6 +2,13 @@
 
 	"list":[
 		{
+				"date":"2021",
+				"tags":["APP","SLITSCAN"],
+				"title": "SUPER SLIT SCAN (EXIBITION ver)",
+				"url": "https://kitasenjudesign.com/slitscan/exibition/"
+		},			
+		
+		{
 				"date":"2023",
 				"tags":["NFT"],
 				"title": "64 RECANGLES",
@@ -17,7 +24,7 @@
 				"date":"2022",
 				"tags":[""],
 				"title": "GEMINI - KEY VISUAL",
-				"url": ""			
+				"url": "https://kitasenjudesign.com/work/gemini/"			
 		},
 		
 		{
@@ -109,7 +116,7 @@
 		{
 				"date":"2021",
 				"tags":["APP","SLITSCAN"],
-				"title": "SUPER SLIT SCAN",
+				"title": "SUPER SLIT SCAN (APP)",
 				"url": "https://kitasenjudesign.com/slitscan/"
 		},			
 		
