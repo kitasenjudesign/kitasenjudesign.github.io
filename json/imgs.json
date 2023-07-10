@@ -2,6 +2,12 @@
 	"imgs": [
 		{
 			"tags": ["2023", "Video"],
+			"img": "https://kitasenjudesign.github.io/img/slitscan.gif",
+			"url": "",
+			"title": "SUPER SLIT SCAN"
+		},				
+		{
+			"tags": ["2023", "Video"],
 			"img": "https://kitasenjudesign.github.io/img/parco.gif",
 			"url": "",
 			"title": "ONLINE PARCO"
