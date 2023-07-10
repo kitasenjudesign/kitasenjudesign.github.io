@@ -3,26 +3,26 @@
 	"list":[
 		{
 				"date":"2021",
-				"tags":["APP","SLITSCAN"],
-				"title": "SUPER SLIT SCAN (EXIBITION ver)",
+				"tags":["EXHIBITION","SLITSCAN"],
+				"title": "SUPER SLIT SCAN (installation ver)",
 				"url": "https://kitasenjudesign.com/slitscan/exhibition/"
 		},			
 		
 		{
 				"date":"2023",
-				"tags":["NFT"],
+				"tags":["EXHIBITION","NFT"],
 				"title": "64 RECANGLES",
 				"url": "https://kitasenjudesign.com/rects/"			
 		},
 		{
 				"date":"2023",
-				"tags":["WEBGL"],
+				"tags":["EXHIBITION","WEBGL"],
 				"title": "PROOF OF X - KEY VISUAL",
 				"url": "https://kitasenjudesign.com/work/proofofx/"			
 		},
 		{
 				"date":"2022",
-				"tags":[""],
+				"tags":["UNITY"],
 				"title": "GEMINI - KEY VISUAL",
 				"url": "https://kitasenjudesign.com/work/gemini/"			
 		},
