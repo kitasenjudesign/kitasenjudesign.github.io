@@ -22,6 +22,12 @@
 		},
 		{
 				"date":"2022",
+				"tags":["WEBGL"],
+				"title": "ONLINE PARCO",
+				"url": "https://kitasenjudesign.com/work/parco/"			
+		},		
+		{
+				"date":"2022",
 				"tags":["UNITY"],
 				"title": "GEMINI - KEY VISUAL",
 				"url": "https://kitasenjudesign.com/work/gemini/"			
