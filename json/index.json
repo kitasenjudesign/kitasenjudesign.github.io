@@ -239,18 +239,7 @@
 				"tags":["WEBGL","TYPOGRAPHY"],
 				"title": "VERLET integration 2",
 				"url": "https://kitasenjudesign.com/sketch/17/"
-		},
-		{
-				"date":"2018",
-				"tags":["UNITY"],
-				"title": "TIME DISPLACEMENT FILTER",
-				"blank":true,
-				"url": "https://github.com/kitasenjudesign/UnitySlitScan"
-		},
-		
-			
-		
-		
+		}		
 		{
 				"date":"2018",
 				"tags":["WEBGL"],
