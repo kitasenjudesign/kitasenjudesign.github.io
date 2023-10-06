@@ -1,5 +1,12 @@
 {
 	"imgs": [
+
+		{
+			"tags": ["2023", "Video"],
+			"img": "https://kitasenjudesign.github.io/img/gol.gif",
+			"url": "",
+			"title": "motion graphics using game of life"
+		},			
 		
 		{
 			"tags": ["2023", "Video"],
