@@ -1,6 +1,12 @@
 {
 	"imgs": [
-
+		{
+			"tags": ["2023", "design"],
+			"img": "https://kitasenjudesign.github.io/img/genart.jpg",
+			"url": "",
+			"title": "sweatshirt"
+		},			
+		
 		{
 			"tags": ["2023", "Video"],
 			"img": "https://kitasenjudesign.github.io/img/gol2.gif",
