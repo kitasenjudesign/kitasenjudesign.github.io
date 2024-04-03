@@ -1,7 +1,15 @@
 {
 
 	"list": [
+		
+		{
+			"date": "2024",
+			"tags": ["canvas"],
+			"title": "dots",
+			"url": "https://kitasenjudesign.com/sketch/73/"
 
+		},			
+		
 		{
 			"date": "2024",
 			"tags": ["webgl"],
