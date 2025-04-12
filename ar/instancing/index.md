@@ -7,7 +7,7 @@ title: ar_glitch
 
 <div class="tags">#2018 #iOS #Unity</div>
 
-<div class="description">プログラミングでクラス（設計図的なもの）から実体化させたものをインスタンスと呼びますが、現実世界でそのインスタンスが起きまくったときの楽しさや狂気をARで仮想的に体験できる作品です。
+<div class="description">プログラミングにおいてクラス（≒設計図）から実体化することをインスタンス化と呼びますが、仮に現実世界でインスタンス化が起きた状態を体験できる作品です。
 </div>
 
 ![01](./aaar01.jpg)
@@ -22,6 +22,8 @@ title: ar_glitch
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/317752750" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
+![01](./aaar.jpg)
 
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/313741764" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
