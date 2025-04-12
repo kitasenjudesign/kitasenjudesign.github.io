@@ -30,6 +30,8 @@ title: ar_glitch
 </div>
 
 
+![01](./a.jpg)
+![01](./b.jpg)
 
 <div class="footer">
   &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
