@@ -3,12 +3,11 @@ layout: works
 title: ar_experiments
 ---
 
-# AR_Experiment_習作
+# AR_Prototypes_習作
 
 <div class="tags">#2018 #iOS #Unity</div>
 
-<div class="description">習作
-</div>
+<div class="description">ARKit等を使った習作</div>
 
 <div class="videoB">
 <iframe  src="https://www.youtube.com/embed/UWBzqYGH4T4?si=r-OwT2vcLnRzMbse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
