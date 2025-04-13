@@ -46,6 +46,6 @@ title: ar_experiments
 
 
 <div class="footer">
-  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a><br/>
-  <a href="https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/ar">src</a>
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+  <a href="https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/ar/experiment">src</a>
 </div>
