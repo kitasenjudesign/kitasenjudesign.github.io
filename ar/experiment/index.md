@@ -10,10 +10,6 @@ title: ar_experiments
 <div class="description">ARKit等を使った習作</div>
 
 <div class="videoB">
-<iframe  src="https://www.youtube.com/embed/UWBzqYGH4T4?si=r-OwT2vcLnRzMbse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div class="videoB">
 <iframe src="https://www.youtube.com/embed/X7-xd3Csz3g?si=9CLGAjE5dfxhLWoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
