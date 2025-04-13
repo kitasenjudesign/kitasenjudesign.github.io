@@ -11,8 +11,8 @@ title: ar_experiments
 </div>
 
 <div class="videoB">
-  https://www.youtube.com/watch?v=CEEqp9RKoLU
-<iframe src="https://www.youtube.com/embed/sB1H2yNPZI0?si=bdPzrJaKRBiKv0E-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<iframe src="https://www.youtube.com/embed/-W8hKtByxEw?si=gz9b-mtOBTm13TZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/656400594" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
