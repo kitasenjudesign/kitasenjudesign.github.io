@@ -15,6 +15,9 @@ title: index
 
 ## [2021](./2021/)
 
+## [2024](./2024/)
+
+
 * [profile](https://kitasenjudesign.github.io/profile/)
 * [source code](https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/work)
 * [kitasenjudesign.com](https://kitasenjudesign.com)
