@@ -14,7 +14,6 @@ title: ar_experiments
 <iframe src="//player.vimeo.com/video/656400594" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
-
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/424772594" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
@@ -33,6 +32,9 @@ title: ar_experiments
 
 
 
+
+
 <div class="footer">
-  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
+  &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a><br/>
+  [src](https://github.com/kitasenjudesign/kitasenjudesign.github.io/tree/master/ar)
 </div>
