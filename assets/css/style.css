@@ -78,7 +78,7 @@ h4{
 .video {
   position: relative;
   height: 0;
-  padding: 30px 0 56.25%;
+  padding: 0px 0 56.25%;
   overflow: hidden;
 }
 .video iframe {
