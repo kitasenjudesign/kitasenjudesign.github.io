@@ -1,8 +1,3 @@
----
-layout: works
-title: ar_experiments
----
-
 # Kitasenju Design Works 2024
 
 ## 恵比寿映像祭トップページ
