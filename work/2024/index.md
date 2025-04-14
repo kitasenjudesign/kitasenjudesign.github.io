@@ -4,8 +4,8 @@
 
 * Format / Website
 * Client / 東京都歴史文化財団
-* Role / Web開発
-* URL / --
+* Role / 実装(WebGL)
+* URL / https://www.yebizo.com/2024/
 
 キービジュアル部分をWebGLで作成。
 
@@ -35,7 +35,7 @@
 * Role / 演出・開発（Threejs, Tonejs)
 * URL / --
 
-Tone.jsを用いたコンテンツだったが非公開。
+Three.js + Tone.jsを用いたコンテンツだったが非公開。
 
 ## Gunma Crane Thunders In-studio Video
 
@@ -45,6 +45,7 @@ Tone.jsを用いたコンテンツだったが非公開。
 * URL / --
 
 Bリーグ、群馬クレインサンダースのホームコート内のLEDで流れる映像。複数種類の画角を制作。
+Webの技術で作成。
 
 <div class="videoB">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" frameborder="0"    allowfullscreen></iframe>
