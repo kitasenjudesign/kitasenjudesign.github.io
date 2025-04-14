@@ -53,6 +53,9 @@ Webの技術で作成。
 <div class="videoB">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025707827?h=843d6d80aa" frameborder="0"    allowfullscreen></iframe></div>
 
+<div class="videoB">
+<iframe src="//player.vimeo.com/video/424772594" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
 
