@@ -1,2 +1,2 @@
-* [experiments](./experiments/)
+* [experiments](./experiment/)
 * [instancing](./instancing)
