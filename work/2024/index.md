@@ -1,3 +1,7 @@
+---
+layout: works
+title: ar_experiments
+---
 
 # Kitasenju Design Works 2024
 
