@@ -55,7 +55,7 @@ Webの技術で作成。
 <div class="video">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" frameborder="0"    allowfullscreen></iframe>
 </div>
-<div class="videoB">
+<div class="video">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025707827?h=843d6d80aa" frameborder="0"    allowfullscreen></iframe></div>
 
 
