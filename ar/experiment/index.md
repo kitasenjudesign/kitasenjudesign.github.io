@@ -50,6 +50,11 @@ title: ar_experiments
 <iframe src="//player.vimeo.com/video/656872247" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
+▼ 
+<div class="videoB">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXBMF6w5jpM?si=fDujJnad24QTrWjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 
 
