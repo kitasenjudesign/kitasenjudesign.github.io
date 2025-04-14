@@ -123,3 +123,7 @@ a:hover {
   margin: 0;
   cursor: pointer;
 }
+
+iframe {
+  background: #eee;
+}
