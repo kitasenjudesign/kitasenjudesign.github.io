@@ -14,16 +14,18 @@
 
 * Format / App
 * Client / Nike
-* Role / 企画開発
-* URL / --
+* Role / 企画・開発（Unity）
+* URL / https://www.nike.com/jp/en/air-max-dn/dynamic-land
 
+<div class="videoB">
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/931257238?h=7f350db614" frameborder="0"    allowfullscreen></iframe></div>
 
 ## Utada Hikaru #SF_KUMA
 
 * Format / Website
 * Client / Sony Music Entertainment
 * Role / 一部WebGL開発
-* URL / --
+* URL / https://sf-kuma.com/
 
 一部のWebGLを担当。
 
@@ -46,11 +48,10 @@ Tone.jsを用いたコンテンツだったが非公開。
 Bリーグ、群馬クレインサンダースのホームコート内のLEDで流れる映像。複数種類の画角を制作。
 
 <div class="videoB">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" frameborder="0"    allowfullscreen></iframe>
 </div>
 <div class="videoB">
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-</div>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1025707827?h=843d6d80aa" frameborder="0"    allowfullscreen></iframe></div>
 
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
