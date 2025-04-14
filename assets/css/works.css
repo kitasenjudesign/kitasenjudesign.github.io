@@ -96,6 +96,7 @@ h4{
   padding: 0 0 46.14%;
   margin: 0 0 15px 0;
   overflow: hidden;
+  background: #eee;
 }
 .videoB iframe {
   position: absolute;
