@@ -9,6 +9,9 @@
 
 キービジュアル部分をWebGLで作成。
 
+![ebizo](./ebizo.png)
+
+
 ## Nike Dynamic Land "Unreal Me"
 
 * Format / App
@@ -16,7 +19,7 @@
 * Role / 企画・開発（Unity）
 * URL / https://www.nike.com/jp/en/air-max-dn/dynamic-land
 
-Slitscanを使った体験型のインタラクティブ映像装置。
+新宿で行われたNikeAirMaxのイベントのためSlitscanを使った体験型のインタラクティブ映像装置を作成。
 
 <div class="video">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/931257238?h=7f350db614" frameborder="0"    allowfullscreen></iframe></div>
@@ -28,7 +31,7 @@ Slitscanを使った体験型のインタラクティブ映像装置。
 * Role / 一部WebGL開発
 * URL / https://sf-kuma.com/
 
-綾鷹コラボのコンテンツをWebGLで作成。
+いちコンテンツをWebGLで作成。
 
 ## Music Website using Tonejs
 
