@@ -47,15 +47,13 @@ Three.js + Tone.jsを用いたコンテンツだったが非公開。
 Bリーグ、群馬クレインサンダースのホームコート内のLEDで流れる映像。複数種類の画角を制作。
 Webの技術で作成。
 
-<div class="videoB">
+<div class="video">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025713822?h=3e3f0e4a6a" frameborder="0"    allowfullscreen></iframe>
 </div>
 <div class="videoB">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1025707827?h=843d6d80aa" frameborder="0"    allowfullscreen></iframe></div>
 
-<div class="videoB">
-<iframe src="//player.vimeo.com/video/424772594" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
+
 
 #### [INDEX](https://kitasenjudesign.github.io/work/)
 
