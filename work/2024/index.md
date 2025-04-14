@@ -16,7 +16,9 @@
 * Role / 企画・開発（Unity）
 * URL / https://www.nike.com/jp/en/air-max-dn/dynamic-land
 
-<div class="videoB">
+Slitscanを使った体験型のインタラクティブ映像装置。
+
+<div class="video">
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/931257238?h=7f350db614" frameborder="0"    allowfullscreen></iframe></div>
 
 ## Utada Hikaru #SF_KUMA
@@ -26,7 +28,7 @@
 * Role / 一部WebGL開発
 * URL / https://sf-kuma.com/
 
-一部のWebGLを担当。
+綾鷹コラボのコンテンツをWebGLで作成。
 
 ## Music Website using Tonejs
 
