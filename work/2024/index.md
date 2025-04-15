@@ -1,9 +1,21 @@
 # Kitasenju Design Works 2024
 
+## Giants選手紹介ビデオ
+
+* Format / Video
+* Client / 株式会社読売巨人軍
+* Production / --
+* Role / 実装(Unity)
+* URL / --
+
+エフェクトをUnityで制作。
+
+
 ## 恵比寿映像祭トップページ
 
 * Format / Website
 * Client / 東京都歴史文化財団
+* Production / Maeda Design LLC
 * Role / 実装(WebGL)
 * URL / https://www.yebizo.com/2024/
 
