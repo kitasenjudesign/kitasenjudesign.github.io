@@ -4,11 +4,11 @@
 
 * Format / Video
 * Client / 株式会社読売巨人軍
-* Production / --
+* Production / maxilla
 * Role / 実装(Unity)
 * URL / --
 
-エフェクトをUnityで制作。
+エフェクト部分をUnityで制作。
 
 
 ## 恵比寿映像祭トップページ
@@ -28,6 +28,7 @@
 
 * Format / App
 * Client / Nike
+* Production / Cekai
 * Role / 企画・開発（Unity）
 * URL / https://www.nike.com/jp/en/air-max-dn/dynamic-land
 
@@ -40,6 +41,7 @@
 
 * Format / Website
 * Client / Sony Music Entertainment
+* Production / Bascule
 * Role / 一部WebGL開発
 * URL / https://sf-kuma.com/
 
@@ -49,6 +51,7 @@
 
 * Format / Website
 * Client / 非公開
+* Production / Bascule
 * Role / 演出・開発（Threejs, Tonejs)
 * URL / --
 
@@ -58,6 +61,7 @@ Three.js + Tone.jsを用いたコンテンツだったが非公開。
 
 * Format / Video
 * Client / Gunma Crane Thunders
+* Production / Maeda Design LLC
 * Role / 演出・開発
 * URL / --
 
