@@ -1,5 +1,16 @@
 # Kitasenju Design Works 2024
 
+## GEMINI Laboratory アワード キービジュアル
+
+* Format / Graphic
+* Client / Toppan
+* Production / Loftwork
+* Role / 実装(Unity)
+* URL / --
+
+エフェクト部分をUnityで制作。
+
+
 ## Giants選手紹介ビデオ
 
 * Format / Video
