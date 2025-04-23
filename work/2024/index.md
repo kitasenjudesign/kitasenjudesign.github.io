@@ -8,7 +8,7 @@
 * Role / 実装(Unity)
 * URL / --
 
-エフェクト部分をUnityで制作。
+GEMINI Laboratoryが主催するアワードのキービジュアルを制作
 
 
 ## Giants選手紹介ビデオ
