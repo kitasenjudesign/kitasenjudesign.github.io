@@ -63,7 +63,9 @@ title: ar_experiments
 
 
 ▼ AR Glitch
+<div class="videoB">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5_JG5W1iq_8?si=M_a6RznZy7eBoW_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 
