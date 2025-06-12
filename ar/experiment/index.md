@@ -3,7 +3,7 @@ layout: works
 title: ar_experiments
 ---
 
-# 習_AR_Prototypes_作
+# 習-AR_Prototypes-作
 
 <div class="tags">#2018 #iOS #Unity</div>
 
@@ -25,25 +25,30 @@ title: ar_experiments
 <iframe src="https://www.youtube.com/embed/-W8hKtByxEw?si=gz9b-mtOBTm13TZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+
 ▼ 地形に沿う
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/656400594" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
 
 ▼ 地形に沿う
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/424772594" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
+
 ▼ 地形に沿う
 <div class="videoB">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXBMF6w5jpM?si=fDujJnad24QTrWjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+
 ▼ 地形に沿う
 <div class="videoB">
 <iframe src="//player.vimeo.com/video/428812958" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
 
 ▼ 地形を歪める
 <div class="videoB">
@@ -57,7 +62,8 @@ title: ar_experiments
 </div>
 
 
-
+▼ AR Glitch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_JG5W1iq_8?si=M_a6RznZy7eBoW_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
