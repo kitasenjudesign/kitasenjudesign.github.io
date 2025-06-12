@@ -68,6 +68,11 @@ title: ar_experiments
 </div>
 
 
+▼ Projected Human
+<div class="videoB">
+<iframe width="451" height="801" src="https://www.youtube.com/embed/1aCIJfO0La4" title="Transparent man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 <div class="footer">
   &copy; <a href="https://kitasenjudesign.com">kitasenjudesign.com</a>
