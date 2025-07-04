@@ -7,6 +7,7 @@
 * [jido-rhythm](https://kitasenjudesign.com/jido-rhythm/)
 * [dotou](https://kitasenjudesign.github.io/ar/dotou/)
 * [experiment](https://kitasenjudesign.github.io/ar/experiment/)
+* [humanity](https://kitasenju.design/ar/humanity/)
 
 ---
 
