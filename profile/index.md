@@ -65,7 +65,7 @@ http://kitasenjudesign.com/
 ![bb](./icon2.jpg)
 ![cc](./addict.jpg)
 ![dd](./kitasenju.jpg)
-![ee](./kitasenjudesign(1).jpg)
+![ee](./kitasenjudesign1.jpg)
 
 
 ## 登壇
